@@ -1,0 +1,9 @@
+name: PlayerName dB2 DSi
+description:
+
+game: Manual_deBlob2DSi_Iristallite
+
+Manual_deBlob2DSi_Iristallite:
+    progression_balancing: 50
+    accessibility: items
+    death_link: true

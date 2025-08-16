@@ -1,12 +1,21 @@
 # deBlob_manual_apworlds
-Manual apworlds for the de Blob Series
+Manual apworlds for the de Blob Series, made with [Manual for Archipelago](https://github.com/ManualForArchipelago/Manual)
+
+
+# How do I use this?
+I will refer you to the offical [Archipelago setup guide](https://archipelago.gg/tutorial/Archipelago/setup_en) for how to set up Archipelago.
+
+Use the `Install APWorld` option in the Archipelago launcher to install the `.apworld` files from the [Releases tab](https://github.com/Iristallite/deBlob_manual_apworlds/releases/latest)  
+I have also provided some template `.yaml` files with the release.  
+<sup>You can also just grab the `.apworld` and `.yaml` files from the folders, but I'd recommend sticking to the Releases for simplicity's sake.</sup>
 
 # What's a *de Blob?*
 de Blob and de Blob 2 are 3D platformers all about color!<sup>[sic][^1]</sup>  
 <sup>I'm sorry if you're colorblind.</sup>
 
 de Blob 1 is more open-ended; you can complete level challenges in any order, and the only thing blocking the exit is your score.  
-de Blob 2 is more story-driven; you have to complete each level's missions in order.<sup>...unless you use speedrun skips</sup>
+de Blob 2 is more story-driven; you have to complete each level's missions in order.<sup>...unless you use speedrun skips</sup>  
+de Blob 2 (DS/i) is a linear 2D platformer that still retains some gameplay elements from the console games.
 # Where can I get the games?
 * de Blob 1: [Steam](https://store.steampowered.com/app/532320/de_Blob), [GOG](https://gog.com/game/de_blob), [Switch](https://nintendo.com/store/products/de-blob-switch), [Xbox One](https://xbox.com/games/store/de-blob/c092flk91x41), [PS4](https://store.playstation.com/product/UP4389-CUSA09934_00-DEBLOBONEUS00001), Wii<sup>[^2]</sup>
 * de Blob 2 (DS/DSi): Unfortunately you'll need to find a second-hand cartridge for this one.
