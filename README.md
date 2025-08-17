@@ -1,6 +1,5 @@
 # deBlob_manual_apworlds
-Manual apworlds for the de Blob Series, made with [Manual for Archipelago](https://github.com/ManualForArchipelago/Manual)
-
+Manual apworlds for the de Blob Series, made with [Manual for Archipelago](https://github.com/ManualForArchipelago/Manual).
 
 # How do I use this?
 I will refer you to the offical [Archipelago setup guide](https://archipelago.gg/tutorial/Archipelago/setup_en) for how to set up Archipelago.
@@ -10,6 +9,17 @@ I have also provided some template `.yaml` files with the release.
 <sup>You can also just grab the `.apworld` and `.yaml` files from the folders, but I'd recommend sticking to the Releases for simplicity's sake.</sup>
 
 # What's a *de Blob?*
+
+<center>
+  <img
+    src=".deBlob12.png"
+    alt="de blob and de Blob 2 copyright 2008-2011 THQ Nordic GmbH"
+    width=50%
+    height=50%
+  ></img><br>
+  <sup><b>de blob</b> and <b>de Blob 2</b> copyright 2008, 2011 THQ Nordic GmbH</sup><br>
+</center>
+
 de Blob and de Blob 2 are 3D platformers all about color!<sup>[sic][^1]</sup>  
 <sup>I'm sorry if you're colorblind.</sup>
 
