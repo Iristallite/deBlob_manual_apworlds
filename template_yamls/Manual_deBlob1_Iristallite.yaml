@@ -1,9 +1,48 @@
-name: PlayerName dB1
-description:
-
+name: Player{number}
+description: Default Manual_deBlob1_Iristallite template
 game: Manual_deBlob1_Iristallite
-
 Manual_deBlob1_Iristallite:
-    progression_balancing: 50
-    accessibility: full
-    death_link: false
+  accessibility: full
+  progression_balancing: 50
+  ## Level unlocks can be either shuffled or progressive.
+  # levels_shuffled: true
+  # levels_progressive: false
+    # 28/29 individual level unlocks are shuffled into the item pool, along with 12 "Comrade Black's Blueprints" McGuffins.
+    # This mode is recommended for solo-slot and multiworld play.
+    # You must use a 100% save file or the "Unlock all levels" cheat on Wii (B B 1 2 1 2 B B at the main menu) to use this mode.
+  # levels_shuffled: false
+  # levels_progressive: true
+    # All 28* levels unlock in sequential order via "Progressive Level" items.
+    # This mode is recommended if you wish to integrate a standard playthrough of de Blob into an Archipelago multiworld.
+    # This option is recommended if you cannot use a 100% save file,
+    # or if you want to experience the natural level progression.
+    # *Unfortunately this mode excludes 10-2 (Sinking Feeling) and 10-3 (Tower of Power)
+  levels_shuffled: true
+  levels_progressive: false
+  # 10-2 (Sinking Feeling) has incredibly strict button-mash timing and is flat-out impossible at 30fps (handheld Switch)...
+  # ...so you can fire it into a black hole with this option.
+  # Set this to false if you're playing on a handheld Switch/Lite, can't mash fast enough/set up turbo.
+  sinking_feeling: true
+  ## Traps! Oh no!
+  # Low-framerate trap; set your FPS limit to 30 for the next 5 minutes.
+  # Disable if you don't have a way to change the FPS limit mid-game (ie: gamescope on Linux or Special K on Windows).
+  traps_30fps: false
+  # Generic restart level trap. Consider disabling in async multiworlds.
+  traps_restart_level: false
+  # You're banned from air-braking (B/RT/R2/ZR mid-air) for 5 minutes, considerably worsening the flow of gameplay.
+  traps_broken_brakes: false
+  # Invert the camera until you get another one!
+  # There's an even number, so at the end you'll be back where you started.
+  traps_invert_camera: false
+  # Much to the chagrin of lead composer John Guscott, you'll have to mute the music for 2 minutes.
+  # At least it isn't 5 minutes like the other traps.
+  traps_mute_music: false
+  ## Cheats! Enhance your game with these handy dandy button combos!
+  # Back/View | Touchpad/Share/Create | C
+  # Adds 10 minutes to the in-game timer.
+  cheats_time_bonus: false      # 1 2 1 2 | A Y A Y | X T X T
+  # 1-up!
+  cheats_extra_life: false      # 1 1 2 2 | A A Y Y | X X T T
+  # UNLIMITED POWER!!! *30 seconds only.
+  cheats_invulnerability: false # 1 1 1 1 | A A A A | X X X X
+  death_link: false

@@ -1,9 +1,63 @@
-name: PlayerName dB2
-description:
-
+name: Player{number}
+description: Default Manual_deBlob2_Iristallite template
 game: Manual_deBlob2_Iristallite
-
 Manual_deBlob2_Iristallite:
-    progression_balancing: 50
-    accessibility: full
-    death_link: false
+  progression_balancing: 50
+  accessibility: full
+  ## Level unlocks can be either shuffled or progressive.
+  # levels_shuffled: true
+  # levels_progressive: false
+    # 11 individual level unlocks are shuffled into the item pool, along with 16 "Rocket Parts" and 12 "Color Energy Beam" McGuffins.
+    # This mode is recommended for solo-slot and multiworld play.
+    # It is recommended that you use the "Unlock all story levels" cheat on a fresh file, rather than a 100% file.
+    # This is because certain pickups save permanently onto your file, leaving no ingame way to track them.
+    # Here is a table of the "Unlock all story levels" cheats:
+      # Wii     : hold C+Z,   then press 1 2 2 1 1 2 2 1
+      # PC/Xbox : hold LB+LT, then press Y X X Y Y X X Y (controller required)
+      # PS3/4/5 : hold L1+L2, then press T S S T T S S T (*T*riangle/*S*quare)
+      # Switch  : hold L+ZL,  then press X Y Y X X Y Y X
+  # levels_shuffled: false
+  # levels_progressive: true
+    # All 31 levels unlock in sequential order via "Progressive Story Level" items.
+    # This mode is recommended if you wish to integrate a standard-ish playthrough of de Blob 2 into an Archipelago multiworld.
+  levels_shuffled: true
+  levels_progressive: false
+  ## Shuffle Pinky as an item and enable the "Pinky to the Rescue" check.
+  # If you want to start with Pinky, set this to true and use AP's start_inventory feature.
+  add_pinky: false
+  # You can add more copies of Pinky if you're playing in some kind of big async and want to use her earlier.
+  extra_pinky_1: false
+  extra_pinky_2: false
+  extra_pinky_3: false
+  ## Traps! Oh no!
+  # Low-framerate trap; set your FPS limit to 30 for the next 5 minutes.
+  # Disable if you don't have a way to change the FPS limit mid-game (ie: gamescope on Linux or Special K on Windows).
+  traps_30fps: false
+  # Make sure to QUIT and then load your checkpoint, because RESTART restarts the entire level
+  traps_restart_checkpoint: false
+  # Generic restart level trap.
+  # If it hits you while the game's closed, delete your checkpoint data.
+  traps_restart_level: false
+  # You're banned from air-braking (B/RT/R2/T/ZR mid-air) for 5 minutes, considerably worsening the flow of gameplay.
+  # You can still charge attack though, and if you get flung upwards due to porting jank (the "launch glitch"), you can still air-brake to avoid a potential softlock.
+  traps_broken_brakes: false
+  # Invert the camera until you get another one!
+  # There's an even number, so at the end you'll be back where you started.
+  traps_invert_camera: false
+  # This trap brought to you by the Monster from Railyards.
+  # (Bans 2-player mode for 5 minutes)
+  traps_zap_pinky: false
+  # Much to the chagrin of lead composer John Guscott, you'll have to mute the music for 2 minutes.
+  # At least it isn't 5 minutes like the other traps.
+  traps_mute_music: false
+  ## Cheats! Enhance your game with these handy dandy button combos!
+  # C+Z | LB+LT | L1+L2 | L+ZL
+  # Adds 10 minutes to the in-game timer.
+  cheats_time_bonus: false     # 1 2 1 2 | Y X Y X | T S T S | X Y X Y
+  # 1-up!
+  cheats_extra_life: false     # 1 1 2 2 | Y Y X X | T T S S | X X Y Y
+  # Sometimes the best offense is a good defense.
+  cheats_armor_refill: false   # 1 2 1 1 | Y X Y Y | T S T T | X Y X X
+  # Use it as many times as you want until you reach the target color.
+  cheats_chroma_crystal: false # 2 | X | S | Y, D-pad left/right x3
+  death_link: false

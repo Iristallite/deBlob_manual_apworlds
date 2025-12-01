@@ -1,9 +1,37 @@
-name: PlayerName dB2 DS
-description:
-
+name: Player{number}
+description: Default Manual_deBlob2DS_Iristallite template
 game: Manual_deBlob2DS_Iristallite
-
 Manual_deBlob2DS_Iristallite:
-    progression_balancing: 50
-    accessibility: full
-    death_link: false
+  progression_balancing: 50
+  accessibility: items
+  ## Level unlocks can be either shuffled or progressive.
+  # levels_shuffled: true
+  # levels_progressive: false
+    # 30 individual level unlocks are shuffled into the item pool, along with 36 "Rocket Parts" McGuffins.
+    # This mode is recommended for solo-slot and multiworld play.
+    # You must use a 100% save file to use this mode.
+    # Unfortunately, the ingame collectible counters are stuck at 100% if you replay a level, so you'll have to track externally.
+    # I recommend using the chatbox in the AP client for counting Raydians, example: 123456789012345 for a level with 15 Raydians.
+  # levels_shuffled: false
+  # levels_progressive: true
+    # All 31 levels unlock in sequential order via "Progressive Level" items.
+    # This mode is recommended if you wish to integrate a standard playthrough of de Blob 2 (DS) into an Archipelago multiworld. 
+  levels_shuffled: true
+  levels_progressive: false
+  # de Blob 2 features DSi exclusive content.
+  # "true" will add the Chroma Cameras as checks and allow "cheats_chroma_crystal" to be set to true.
+  # Recommended methods to play in DSi mode:
+    # Plug the cartridge into a DSi or 3DS family system
+    # Use TWiLight Menu on a DSi or 3DS family system
+    # Configure the melonDS emulator to run in DSi mode
+  dsi_enhanced: false
+  # The Chroma Crystal lets you choose any color by pressing SELECT.
+  # It also requires DSi Enhanced mode.
+  cheats_chroma_crystal: false
+  ## Traps! Oh no!
+  # Low-resolution trap; set the emulator's resolution to 1x for the next level or play the next level on console.
+  # Disable if playing entirely on console or not using emulator upscaling.
+  traps_256x192: false
+  # Generic restart level trap. Consider disabling in async multiworlds.
+  traps_restart_level: false
+  death_link: false
