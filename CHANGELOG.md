@@ -1,3 +1,28 @@
+# V3: The Great Options update!
+Published: 2025-12-01 11:00 UTC
+
+And now for something... more customizable!   
+* Added many yaml options
+  * Trap toggles
+  * Cheat toggles
+  * Pinky toggle
+  * Shuffled/Progressive level modes
+  * Option to remove the worst level in dB1 (10-2: Sinking Feeling)
+* Renamed `Comrade Black's Plans` to `Comrade Black's Blueprints` for arbitrary reasons
+* Renamed `+10 Minutes` to `Time Bonus`
+* Removed the `INKT Informed` check since the trophy pops after beating the goal level
+* Combined the DS and DSi versions of de Blob 2 into a single apworld with a DSi Enhanced™ toggle
+* Actually fixed DeathLink being broken on the dB2 apworld <sup>(The V2 hotfix was identical to V2...)</sup>
+* Fixed a few typos in the readme
+* Tidied up my office
+
+Shoutouts to [BigBradley](https://github.com/BigBradley)'s [Mario Kart 7 manual](https://github.com/BigBradley/Mario-Kart-7-Manual-APworld), which I referenced to set up the new yaml options!  
+
+As always, the dB2 PC Audio Patch is included. Steam tested, GOG support not guaranteed.  
+**I tested this by running 100 generations of 10 mixed-settings worlds, and got no gen failures!**  
+**If anything breaks with the apworld, please either open an issue or send me a message on discord (iristallite)** 
+<sup>Blob Party mode for *de Blob 2* coming eventually.</sup>
+
 # [V2: The first public release](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-V2)
 Published: 2025-08-16 @ 00:34 UTC
 
