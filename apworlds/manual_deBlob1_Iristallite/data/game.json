@@ -1,0 +1,13 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "deBlob1",
+  "creator": "Iristallite",
+  "filler_item_name": "Paintbot",
+  "death_link": true,
+  "starting_items": [
+    {
+      "item_categories": ["(5) Level"],
+      "random": 3
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "deBlob2DS",
+  "creator": "Iristallite",
+  "filler_item_name": "Music Note",
+  "death_link": true,
+  "starting_items": [
+    {
+      "item_categories": ["(5) Level"],
+      "random": 3
+    }
+  ]
+}

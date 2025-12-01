@@ -1,0 +1,310 @@
+[
+  {
+    "count": "1",
+    "name": "Paradise Island",
+    "category": [
+      "(6) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Downtown",
+    "category": [
+      "(6) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Blanctown",
+    "category": [
+      "(6) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "The Senate",
+    "category": [
+      "(6) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "State College",
+    "category": [
+      "(6) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Soda Falls",
+    "category": [
+      "(6) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hydro Station",
+    "category": [
+      "(6) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "House of Fun",
+    "category": [
+      "(6) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Orbital Habitats",
+    "category": [
+      "(6) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Railyards",
+    "category": [
+      "(6) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "16",
+    "name": "Rocket Parts",
+    "category": [
+      "(0) McGuffin",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Color Underground Rocket",
+    "category": [
+      "(0) McGuffin"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "10",
+    "name": "Color Energy Beam",
+    "category": [
+      "(0) McGuffin",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "12",
+    "name": "Progressive Story Level",
+    "category": [
+      "(5) Level",
+      "levels_progressive"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Life Upgrade",
+    "category": [
+      "(5) Upgrade"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Size Upgrade",
+    "category": [
+      "(5) Upgrade"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Pinky Upgrade",
+    "category": [
+      "(5) Upgrade"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Armor Upgrade",
+    "category": [
+      "(5) Upgrade"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Charge Upgrade",
+    "category": [
+      "(5) Upgrade"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Pinky",
+    "category": [
+      "(5) Upgrade",
+      "add_pinky"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Extra Pinky 1",
+    "category": [
+      "(5) Upgrade",
+      "extra_pinky_1"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Extra Pinky 2",
+    "category": [
+      "(5) Upgrade",
+      "extra_pinky_2"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Extra Pinky 3",
+    "category": [
+      "(5) Upgrade",
+      "extra_pinky_3"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "High-Performance Ink (30fps cap)",
+    "category": [
+      "(2) Trap",
+      "traps_30fps"
+    ],
+    "trap": true
+  },
+  {
+    "count": "1",
+    "name": "Restart Checkpoint",
+    "category": [
+      "(3) Diabolical Trap",
+      "traps_restart_checkpoint"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Restart Level",
+    "category": [
+      "(3) Diabolical Trap",
+      "traps_restart_level"
+    ],
+    "trap": true
+  },
+  {
+    "count": "3",
+    "name": "Broken Brakes",
+    "category": [
+      "(2) Trap",
+      "traps_broken_brakes"
+    ],
+    "trap": true
+  },
+  {
+    "count": "6",
+    "name": "Invert Camera",
+    "category": [
+      "(2) Trap",
+      "traps_invert_camera"
+    ],
+    "trap": true
+  },
+  {
+    "count": "3",
+    "name": "Pinky Short-Circuit",
+    "category": [
+      "(2) Trap",
+      "traps_zap_pinky"
+    ],
+    "trap": true
+  },
+  {
+    "count": "2",
+    "name": "Free Lossless Ink Codec (Mute Music)",
+    "category": [
+      "(3) Diabolical Trap",
+      "traps_mute_music"
+    ],
+    "trap": true
+  },
+  {
+    "count": "5",
+    "name": "Time Bonus",
+    "category": [
+      "(4) Cheat",
+      "cheats_time_bonus"
+    ],
+    "filler": true
+  },
+  {
+    "count": "4",
+    "name": "Extra Life",
+    "category": [
+      "(4) Cheat",
+      "cheats_extra_life"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Armor Refill",
+    "category": [
+      "(4) Cheat",
+      "cheats_armor_refill"
+    ],
+    "useful": true
+  },
+  {
+    "count": "6",
+    "name": "Chroma Crystal",
+    "category": [
+      "(4) Cheat",
+      "cheats_chroma_crystal"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Big Color Atom",
+    "category": [
+      "(1) Filler"
+    ],
+    "filler": true
+  }
+]

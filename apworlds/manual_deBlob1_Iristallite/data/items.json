@@ -1,0 +1,362 @@
+[
+  {
+    "count": 1,
+    "name": "1-1 (Last Resort)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1-2 (Seaside Roller)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "1-3 (Top of the World)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-1 (Uptown)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-2 (Ship to Ship)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "2-3 (Leaps of Faith)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-1 (Downtown)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-2 (Sizzle Race)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "3-3 (Lost Freeway)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-1 (The Chroma Dam)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-2 (INKT Academy)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "4-3 (Crane Fighting)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-1 (Guggentraz Island)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-2 (Jetbike Blitz)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "5-3 (Trainspotting)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-1 (The Docklands)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-2 (Miles o' Silos)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "6-3 (Forgotten Forest)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-1 (Hanging Gardens)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-2 (Billboard-o-rama)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7-3 (Inky Canyon)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-1 (Chroma City Fun Park)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-2 (Factory Run)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "8-3 (Blob Smash)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "9-1 (Ministry of Ink)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "9-2 (Hill Climb)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "9-3 (Deep Down)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "10-2 (Sinking Feeling)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled",
+      "sinking_feeling"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "10-3 (Tower of Power)",
+    "category": [
+      "(5) Level",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "12",
+    "name": "Comrade Black's Blueprints",
+    "category": [
+      "(0) McGuffin",
+      "levels_shuffled"
+    ],
+    "progression": true
+  },
+  {
+    "count": "28",
+    "name": "Progressive Level",
+    "category": [
+      "(5) Level",
+      "levels_progressive"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "High-Performance Ink (30fps)",
+    "category": [
+      "(2) Trap",
+      "traps_30fps"
+    ],
+    "trap": true
+  },
+  {
+    "count": "5",
+    "name": "Broken Brakes",
+    "category": [
+      "(2) Trap",
+      "traps_broken_brakes"
+    ],
+    "trap": true
+  },
+  {
+    "count": "6",
+    "name": "Invert Camera",
+    "category": [
+      "(2) Trap",
+      "traps_invert_camera"
+    ],
+    "trap": true
+  },
+  {
+    "count": "4",
+    "name": "Free Lossless Ink Codec (Mute Music)",
+    "category": [
+      "(3) Diabolical Trap",
+      "traps_mute_music"
+    ],
+    "trap": true
+  },
+  {
+    "count": "2",
+    "name": "Restart Level",
+    "category": [
+      "(3) Diabolical Trap",
+      "traps_restart_level"
+    ],
+    "trap": true
+  },
+  {
+    "count": "25",
+    "name": "Time Bonus",
+    "category": [
+      "(4) Cheat",
+      "cheats_time_bonus"
+    ],
+    "filler": true
+  },
+  {
+    "count": "6",
+    "name": "Extra Life",
+    "category": [
+      "(4) Cheat",
+      "cheats_extra_life"
+    ],
+    "useful": true
+  },
+  {
+    "count": "6",
+    "name": "Temporary Invulnerability",
+    "category": [
+      "(4) Cheat",
+      "cheats_invulnerability"
+    ],
+    "useful": true
+  },
+  {
+    "count": 6,
+    "name": "Color Wheel",
+    "category": [
+      "(1) Filler"
+    ],
+    "filler": true
+  }
+]

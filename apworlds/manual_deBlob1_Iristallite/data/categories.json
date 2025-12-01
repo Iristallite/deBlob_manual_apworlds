@@ -1,0 +1,46 @@
+{
+  "levels_shuffled":{
+    "hidden": true,
+    "yaml_option":["levels_shuffled"]
+  },
+  "levels_progressive":{
+    "hidden": true,
+    "yaml_option":["levels_progressive"]
+  },
+  "sinking_feeling":{
+    "hidden": true,
+    "yaml_option":["sinking_feeling"]
+  },
+  "traps_30fps":{
+    "hidden": true,
+    "yaml_option":["traps_30fps"]
+  },
+  "traps_restart_level":{
+    "hidden": true,
+    "yaml_option":["traps_restart_level"]
+  },
+  "traps_broken_brakes":{
+    "hidden": true,
+    "yaml_option":["traps_broken_brakes"]
+  },
+  "traps_invert_camera":{
+    "hidden": true,
+    "yaml_option":["traps_invert_camera"]
+  },
+  "traps_mute_music":{
+    "hidden": true,
+    "yaml_option":["traps_mute_music"]
+  },
+  "cheats_time_bonus":{
+    "hidden": true,
+    "yaml_option":["cheats_time_bonus"]
+  },
+  "cheats_extra_life":{
+    "hidden": true,
+    "yaml_option":["cheats_extra_life"]
+  },
+  "cheats_invulnerability":{
+    "hidden": true,
+    "yaml_option":["cheats_invulnerability"]
+  }
+}

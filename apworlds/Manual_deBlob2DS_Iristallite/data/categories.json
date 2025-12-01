@@ -1,0 +1,26 @@
+{
+  "levels_shuffled":{
+    "hidden": true,
+    "yaml_option":["levels_shuffled"]
+  },
+  "levels_progressive":{
+    "hidden": true,
+    "yaml_option":["levels_progressive"]
+  },
+  "dsi_enhanced":{
+    "hidden": true,
+    "yaml_option":["dsi_enhanced"]
+  },
+  "cheats_chroma_crystal":{
+    "hidden": true,
+    "yaml_option":["cheats_chroma_crystal"]
+  },
+  "traps_256x192":{
+    "hidden": true,
+    "yaml_option":["traps_256x192"]
+  },
+  "traps_restart_level":{
+    "hidden": true,
+    "yaml_option":["traps_restart_level"]
+  }
+}

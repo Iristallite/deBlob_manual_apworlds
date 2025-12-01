@@ -1,0 +1,74 @@
+{
+  "Prisma City": {
+    "connects_to": [
+      "Paradise Island",
+      "Downtown",
+      "Blanctown",
+      "The Senate",
+      "State College (Comrade Black U.)",
+      "Soda Falls (Blanc Cola Cannery)",
+      "Hydro Station (Inktron Collider)",
+      "House of Fun (Blanc TV Factory)",
+      "Orbital Habitats (Prison Zoo)",
+      "Railyards (Inky Fabricator)",
+      "Rocket Range"
+    ],
+    "requires": [],
+    "starting": true
+  },
+  "Paradise Island": {
+    "connects_to": [],
+    "requires": "|Paradise Island| OR |Progressive Story Level:1|"
+  },
+  "Downtown": {
+    "connects_to": [],
+    "requires": "|Downtown| OR |Progressive Story Level:2|"
+  },
+  "Blanctown": {
+    "connects_to": [],
+    "requires": "|Blanctown| OR |Progressive Story Level:3|"
+  },
+  "The Senate": {
+    "connects_to": [],
+    "requires": "|The Senate| OR |Progressive Story Level:4|"
+  },
+  "State College (Comrade Black U.)": {
+    "connects_to": [],
+    "requires": "|State College| OR |Progressive Story Level:5|"
+  },
+  "Soda Falls (Blanc Cola Cannery)": {
+    "connects_to": [],
+    "requires": "|Soda Falls| OR |Progressive Story Level:6|"
+  },
+  "Hydro Station (Inktron Collider)": {
+    "connects_to": [],
+    "requires": "|Hydro Station| OR |Progressive Story Level:7|"
+  },
+  "House of Fun (Blanc TV Factory)": {
+    "connects_to": [],
+    "requires": "|House of Fun| OR |Progressive Story Level:8|"
+  },
+  "Orbital Habitats (Prison Zoo)": {
+    "connects_to": [],
+    "requires": "|Orbital Habitats| OR |Progressive Story Level:9|"
+  },
+  "Railyards (Inky Fabricator)": {
+    "connects_to": [],
+    "requires": "|Railyards| OR |Progressive Story Level:10|"
+  },
+  "Rocket Range": {
+    "connects_to": [
+      "Hypno Ray"
+    ],
+    "requires": "|Rocket Parts:12| OR |Progressive Story Level:11|"
+  },
+  "Hypno Ray": {
+    "connects_to": [],
+    "requires": "(|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|) OR |Progressive Story Level:12|"
+  },
+  "Trophies": {
+    "connects_to": [],
+    "requires": [],
+    "starting": true
+  }
+}

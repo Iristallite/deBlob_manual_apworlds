@@ -1,0 +1,21 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "deBlob2",
+  "creator": "Iristallite",
+  "filler_item_name": "Color Atom",
+  "death_link": true,
+  "starting_items": [
+    {
+      "item_categories": [
+        "(6) Level"
+      ],
+      "random": 2
+    },
+    {
+      "item_categories": [
+        "(5) Upgrade"
+      ],
+      "random": 4
+    }
+  ]
+}

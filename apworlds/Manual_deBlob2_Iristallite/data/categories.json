@@ -1,0 +1,70 @@
+{
+  "levels_shuffled":{
+    "hidden": true,
+    "yaml_option":["levels_shuffled"]
+  },
+  "levels_progressive":{
+    "hidden": true,
+    "yaml_option":["levels_progressive"]
+  },
+  "add_pinky": {
+    "hidden": true,
+    "yaml_option": ["add_pinky"]
+  },
+  "extra_pinky_1": {
+    "hidden": true,
+    "yaml_option": ["extra_pinky_1"]
+  },
+  "extra_pinky_2": {
+    "hidden": true,
+    "yaml_option": ["extra_pinky_2"]
+  },
+  "extra_pinky_3": {
+    "hidden": true,
+    "yaml_option": ["extra_pinky_3"]
+  },
+  "traps_30fps":{
+    "hidden": true,
+    "yaml_option":["traps_30fps"]
+  },
+  "traps_restart_checkpoint":{
+    "hidden": true,
+    "yaml_option":["traps_restart_checkpoint"]
+  },
+  "traps_restart_level":{
+    "hidden": true,
+    "yaml_option":["traps_restart_level"]
+  },
+  "traps_broken_brakes":{
+    "hidden": true,
+    "yaml_option":["traps_broken_brakes"]
+  },
+  "traps_invert_camera":{
+    "hidden": true,
+    "yaml_option":["traps_invert_camera"]
+  },
+  "traps_zap_pinky":{
+    "hidden": true,
+    "yaml_option":["traps_zap_pinky"]
+  },
+  "traps_mute_music":{
+    "hidden": true,
+    "yaml_option":["traps_mute_music"]
+  },
+  "cheats_time_bonus":{
+    "hidden": true,
+    "yaml_option":["cheats_time_bonus"]
+  },
+  "cheats_extra_life":{
+    "hidden": true,
+    "yaml_option":["cheats_extra_life"]
+  },
+  "cheats_armor_refill":{
+    "hidden": true,
+    "yaml_option":["cheats_armor_refill"]
+  },
+  "cheats_chroma_crystal":{
+    "hidden": true,
+    "yaml_option":["cheats_chroma_crystal"]
+  }
+}

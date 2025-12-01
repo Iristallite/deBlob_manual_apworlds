@@ -1,0 +1,59 @@
+{
+  "Chroma City": {
+    "connects_to": [
+      "Last Resort",
+      "Uptown",
+      "Downtown",
+      "The Chroma Dam",
+      "Guggentraz Island",
+      "The Docklands",
+      "Hanging Gardens",
+      "Chroma City Fun Park",
+      "Ministry of Ink",
+      "Lake Raydia"
+    ],
+    "requires": [],
+    "starting": true
+  },
+  "Last Resort": {
+    "connects_to": [],
+    "requires": "|1-1 (Last Resort)| OR |1-2 (Seaside Roller)| OR |1-3 (Top of the World)| OR |Progressive Level:1|",
+    "starting": true
+  },
+  "Uptown": {
+    "connects_to": [],
+    "requires": "|2-1 (Uptown)| OR |2-2 (Ship to Ship)| OR |2-3 (Leaps of Faith)| OR |Progressive Level:4|"
+  },
+  "Downtown": {
+    "connects_to": [],
+    "requires": "|3-1 (Downtown)| OR |3-2 (Sizzle Race)| OR |3-3 (Lost Freeway)| OR |Progressive Level:7|"
+  },
+  "The Chroma Dam": {
+    "connects_to": [],
+    "requires": "|4-1 (The Chroma Dam)| OR |4-2 (INKT Academy)| OR |4-3 (Crane Fighting)| OR |Progressive Level:10|"
+  },
+  "Guggentraz Island": {
+    "connects_to": [],
+    "requires": "|5-1 (Guggentraz Island)| OR |5-2 (Jetbike Blitz)| OR |5-3 (Trainspotting)| OR |Progressive Level:13|"
+  },
+  "The Docklands": {
+    "connects_to": [],
+    "requires": "|6-1 (The Docklands)| OR |6-2 (Miles o' Silos)| OR |6-3 (Forgotten Forest)| OR |Progressive Level:16|"
+  },
+  "Hanging Gardens": {
+    "connects_to": [],
+    "requires": "|7-1 (Hanging Gardens)| OR |7-2 (Billboard-o-rama)| OR |7-3 (Inky Canyon)| OR |Progressive Level:19|"
+  },
+  "Chroma City Fun Park": {
+    "connects_to": [],
+    "requires": "|8-1 (Chroma City Fun Park)| OR |8-2 (Factory Run)| OR |8-3 (Blob Smash)| OR |Progressive Level:22|"
+  },
+  "Ministry of Ink": {
+    "connects_to": [],
+    "requires": "|9-1 (Ministry of Ink)| OR |9-2 (Hill Climb)| OR |9-3 (Deep Down)| OR |Progressive Level:25|"
+  },
+  "Lake Raydia": {
+    "connects_to": [],
+    "requires": "|Comrade Black's Blueprints:9| OR |10-2 (Sinking Feeling)| OR |10-3 (Tower of Power)| OR |Progressive Level:28|"
+  }
+}
