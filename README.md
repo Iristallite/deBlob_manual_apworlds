@@ -13,7 +13,7 @@ I have also provided some template `.yaml` files with the release.
 <center>
   <img
     src=".deBlob12.png"
-    alt="de blob and de Blob 2 copyright 2008-2011 THQ Nordic GmbH"
+    alt="de Blob and de Blob 2 copyright 2008-2011 THQ Nordic GmbH"
     width=50%
     height=50%
   ></img><br>
