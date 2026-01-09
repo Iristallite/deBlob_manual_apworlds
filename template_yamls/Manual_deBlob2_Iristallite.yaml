@@ -1,7 +1,7 @@
 name: Player{number}
-description: Default Manual_deBlob2_Iristallite template
-game: Manual_deBlob2_Iristallite
-Manual_deBlob2_Iristallite:
+description: Default Manual_de Blob 2_Iristallite template
+game: Manual_de Blob 2_Iristallite
+Manual_de Blob 2_Iristallite:
   progression_balancing: 50
   accessibility: full
   ## Level unlocks can be either shuffled or progressive.

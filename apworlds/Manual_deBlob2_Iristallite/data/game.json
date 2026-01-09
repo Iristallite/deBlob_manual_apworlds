@@ -1,6 +1,6 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "deBlob2",
+  "game": "de Blob 2",
   "creator": "Iristallite",
   "filler_item_name": "Color Atom",
   "death_link": true,

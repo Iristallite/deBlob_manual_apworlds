@@ -1,5 +1,16 @@
-# V3: The Great Options update!
-Published: 2025-12-01 11:00 UTC
+## [v3.1: $25 Apple Polishing Cloth](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-v3.1)
+Published: 2026-01-09 @ 23:27 UTC
+
+A little bit of polish goes a long way.  
+<sup>yes, apple actually sells a [$25 cloth...](https://apple.com/ca/shop/product/mw693am/a/polishing-cloth)</sup>
+
+* Changed the game names in the apworlds to look slightly nicer. This **will** break existing yamls.
+* Shrank header sizes in changelog and readme to look slightly nicer
+* Removed compiled apworlds from the base repository so git doesn't try to delta-patch them and waste ~0.7MB each time
+* Linked v3.0 in the readme because I apparently forgot to
+* Removed `www.` from readme links to save an inconsequential amount of space that was immediately used again several dozen times over by this unnecessarily long changelog note
+## [V3: The Great Options update!](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/Release-V3.0)
+Published: 2025-12-01 @ 11:00 UTC
 
 And now for something... more customizable!   
 * Added many yaml options
@@ -23,7 +34,7 @@ As always, the dB2 PC Audio Patch is included. Steam tested, GOG support not gua
 **If anything breaks with the apworld, please either open an issue or send me a message on discord (iristallite)** 
 <sup>Blob Party mode for *de Blob 2* coming eventually.</sup>
 
-# [V2: The first public release](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-V2)
+## [V2: The first public release](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-V2)
 Published: 2025-08-16 @ 00:34 UTC
 
 After several days of work, a test-run in a short async with some friends, more work, a brief hiatus due to a heatwave, and a bit more work, the de Blob series apworlds have been released!
