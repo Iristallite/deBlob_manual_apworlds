@@ -1,5 +1,5 @@
 ## [v3.1: $25 Apple Polishing Cloth](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-v3.1)
-Published: 2026-01-09 @ 23:27 UTC
+Published: 2026-01-09 @ 23:57 UTC
 
 A little bit of polish goes a long way.  
 <sup>yes, apple actually sells a [$25 cloth...](https://apple.com/ca/shop/product/mw693am/a/polishing-cloth)</sup>
@@ -34,6 +34,7 @@ As always, the dB2 PC Audio Patch is included. Steam tested, GOG support not gua
 **If anything breaks with the apworld, please either open an issue or send me a message on discord (iristallite)** 
 <sup>Blob Party mode for *de Blob 2* coming eventually.</sup>
 
+## [V2: The first public release](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-V2)
 ## [V2: The first public release](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-V2)
 Published: 2025-08-16 @ 00:34 UTC
 
