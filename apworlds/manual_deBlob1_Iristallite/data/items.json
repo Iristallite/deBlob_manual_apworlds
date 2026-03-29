@@ -271,6 +271,24 @@
     "progression": true
   },
   {
+    "count": "1",
+    "name": "Power-Up - Paint Tanker",
+    "category": [
+      "(1) Power-Up",
+      "shuffle_paint_tanker"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Skip Button",
+    "category": [
+      "(1) Power-Up",
+      "shuffle_skip_button"
+    ],
+    "progression": true
+  },
+  {
     "count": "28",
     "name": "Progressive Level",
     "category": [
@@ -354,9 +372,6 @@
   {
     "count": 6,
     "name": "Color Wheel",
-    "category": [
-      "(1) Filler"
-    ],
     "filler": true
   }
 ]

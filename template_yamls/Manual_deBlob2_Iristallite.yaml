@@ -1,9 +1,19 @@
 name: Player{number}
-description: Default Manual_de Blob 2_Iristallite template
+description: Default "base" Preset for Iris's de Blob 2 Manual
+# "Arty's Masterpiece" preset is the dev's recommendation, balancing mid-level and completionist checks.
+# "Zip's Choice" is a quick-ish yaml that excludes a lot of "completionist" checks.
+# It's optimized for long (6-8hr) sync games.
+# "Prof's Classic" preset is a rough equivalent to v3 and earlier behaviour.
+# Most checks will be sent when you're near the end of the level.
+# "Bif's Fullsanity" has a large amount of mid-level and late-level checks.
+# Every check is enabled, and almost everything is shuffled too.
+# "Comrade Black's Little Black Book" preset is equivalent to Bif's preset, but enables traps and cheats...
 game: Manual_de Blob 2_Iristallite
 Manual_de Blob 2_Iristallite:
   progression_balancing: 50
   accessibility: full
+  death_link: false
+  game_platform: steam
   ## Level unlocks can be either shuffled or progressive.
   # levels_shuffled: true
   # levels_progressive: false
@@ -22,6 +32,27 @@ Manual_de Blob 2_Iristallite:
     # This mode is recommended if you wish to integrate a standard-ish playthrough of de Blob 2 into an Archipelago multiworld.
   levels_shuffled: true
   levels_progressive: false
+  ## Granular check control
+  bronze_environment_medals: false
+  silver_environment_medals: false
+  gold_environment_medals: true
+  bronze_cleanup_medals: false
+  silver_cleanup_medals: false
+  gold_cleanup_medals: true
+  bronze_liberation_medals: false
+  silver_liberation_medals: false
+  gold_liberation_medals: true
+  s_rank: true
+  inspired_collector: true
+  artful_collector: true
+  stylish_collector: true
+  ## Transformsanity
+  # Light mode only includes Transform Engines that spawn an Upgrade Point.
+  # Heavy mode includes EVERY Transform Engine.
+  # Heavy mode stacks with Light mode, so enable both options 
+  # if you plan to use Heavy mode for Transformsanity.
+  transformsanity_light: false
+  transformsanity_heavy: false
   ## Shuffle Pinky as an item and enable the "Pinky to the Rescue" check.
   # If you want to start with Pinky, set this to true and use AP's start_inventory feature.
   add_pinky: false
@@ -29,6 +60,19 @@ Manual_de Blob 2_Iristallite:
   extra_pinky_1: false
   extra_pinky_2: false
   extra_pinky_3: false
+  # Shuffle the power-ups! 
+  shuffle_rainbow: false
+  shuffle_regen: false
+  # These powerups are logically required to progress in certain areas
+  # I have not written logic for this, but it will come eventually.
+  # For now, just use the power-up and wait for it to run out as soon as you're past whatever obstacle was blocking you.
+  # Not a great solution but it'll do until I write actual logic for this
+  shuffle_supercharge: false
+  shuffle_haz_mat: false
+  shuffle_wrecking_ball: false
+  shuffle_graviton: false
+  # This option is a huge waste of time and is only here because I thought it was funny. Do NOT use in sync multis (This game's kinda too long for most syncs anyway)
+  shuffle_skip_button: false
   ## Traps! Oh no!
   # Low-framerate trap; set your FPS limit to 30 for the next 5 minutes.
   # Disable if you don't have a way to change the FPS limit mid-game (ie: gamescope on Linux or Special K on Windows).
@@ -60,4 +104,3 @@ Manual_de Blob 2_Iristallite:
   cheats_armor_refill: false   # 1 2 1 1 | Y X Y Y | T S T T | X Y X X
   # Use it as many times as you want until you reach the target color.
   cheats_chroma_crystal: false # 2 | X | S | Y, D-pad left/right x3
-  death_link: false

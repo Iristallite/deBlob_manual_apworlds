@@ -1,9 +1,19 @@
 name: Player{number}
-description: Default Manual_de Blob 2 (DS)_Iristallite template
+description: Default "base" preset for Iris's de Blob 2 (DS) Manual
+# "Zip's Choice" preset removes the Liberator checks from the location pool,
+# as tracking 10-15 (or even 20 sometimes) collectibles manually can be annoying.
+# DS version does not include Chroma Camera/Chroma Crystal.
+# DSi preset also changes Chroma Crystal setting to Base, meaning it is a singular item.
+# This is the recommended setting for beginners in v4.0.
+# "Prof's Classic" is exact equivalent to v3 behaviour, includes both Musician and Liberator
+# DS version does not include Chroma Camera/Chroma Crystal.
+# DSi preset is mostly equivalent to v3, but the default Chroma Crystal setting has been changed to Shards.
+# Sorry Bif, you don't get a preset for this one (I haven't implemented checkpointsanity yet)
 game: Manual_de Blob 2 (DS)_Iristallite
 Manual_de Blob 2 (DS)_Iristallite:
   progression_balancing: 50
   accessibility: items
+  death_link: false
   ## Level unlocks can be either shuffled or progressive.
   # levels_shuffled: true
   # levels_progressive: false
@@ -18,20 +28,32 @@ Manual_de Blob 2 (DS)_Iristallite:
     # This mode is recommended if you wish to integrate a standard playthrough of de Blob 2 (DS) into an Archipelago multiworld. 
   levels_shuffled: true
   levels_progressive: false
-  # de Blob 2 features DSi exclusive content.
-  # "true" will add the Chroma Cameras as checks and allow "cheats_chroma_crystal" to be set to true.
-  # Recommended methods to play in DSi mode:
-    # Plug the cartridge into a DSi or 3DS family system
-    # Use TWiLight Menu on a DSi or 3DS family system
-    # Configure the melonDS emulator to run in DSi mode
-  dsi_enhanced: false
-  # The Chroma Crystal lets you choose any color by pressing SELECT.
-  # It also requires DSi Enhanced mode.
-  cheats_chroma_crystal: false
+  # Musician: Collect all three Big Music Notes
+  # Liberator: Rescue all the Raydians from their Graydian suits
+  musician: true
+  liberator: true
+  # This option is a small waste of time and is only here because I thought it was funny.
+  shuffle_skip_button: false
   ## Traps! Oh no!
   # Low-resolution trap; set the emulator's resolution to 1x for the next level or play the next level on console.
   # Disable if playing entirely on console or not using emulator upscaling.
   traps_256x192: false
   # Generic restart level trap. Consider disabling in async multiworlds.
   traps_restart_level: false
-  death_link: false
+  ## !! DSi EXCLUSIVE OPTIONS !!
+  # de Blob 2 features DSi exclusive content.
+  # The following options
+  # Recommended methods to play in DSi mode:
+    # Plug the cartridge into a DSi or 3DS family system
+    # Use TWiLight Menu on a DSi or 3DS family system
+    # Configure the melonDS emulator to run in DSi mode
+  chroma_camera: false
+  # The Chroma Crystal lets you choose any color by pressing SELECT.
+  # It also requires DSi Enhanced mode.
+  # Three forms of the Chroma Crystal are offered.
+  # "base" means the Chroma Crystal is shuffled as a singular item, and you can use it infinitely once found.
+  # "shards" means the Chroma Crystal is split into 15 shards, and you can use it infinitely once ALL 15 shards are found.
+  # "consumable" means the Chroma Crystal is a consumable cheat item similar to the console games.
+  chroma_crystal_base: false # recommended for syncs
+  chroma_crystal_shards: false # recommended for asyncs
+  chroma_crystal_consumable: false # not recommended anymore

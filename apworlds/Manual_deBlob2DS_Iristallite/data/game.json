@@ -1,13 +1,10 @@
 {
-  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "de Blob 2 (DS)",
-  "creator": "Iristallite",
+  "$schema":          "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game":             "de Blob 2 (DS)",
+  "creator":          "Iristallite",
   "filler_item_name": "Music Note",
-  "death_link": true,
+  "death_link":       true,
   "starting_items": [
-    {
-      "item_categories": ["(5) Level"],
-      "random": 3
-    }
+    {"item_categories": ["(4) Level"],"random": 3}
   ]
 }

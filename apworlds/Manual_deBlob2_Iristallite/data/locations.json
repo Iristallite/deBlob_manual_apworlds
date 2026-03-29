@@ -1,799 +1,243 @@
 [
-  {
-    "region": "Rocket Range",
-    "name": "Rocket Launched",
-    "category": [
-      "11: Rocket Range"
-    ],
-    "requires": "|Rocket Parts:12| OR |Progressive Story Level:11|",
-    "place_item": [
-      "Color Underground Rocket"
-    ]
-  },
-  {
-    "victory": true,
-    "region": "Hypno Ray",
-    "name": "Hypno Ray Destroyed",
-    "category": [
-      "12: Hypno Ray"
-    ],
-    "requires": "(|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|) OR (|Progressive Story Level:12|)"
-  },
-  {
-    "region": "Trophies",
-    "name": "Trophies: Blob Survivor",
-    "category": [
-      "Trophies"
-    ],
-    "requires": "|Progressive Story Level:1| OR |Paradise Island| OR |Downtown| OR |Blanctown| OR |The Senate| OR |State College| OR |Soda Falls| OR |Hydro Station| OR |House of Fun| OR |Orbital Habitats| OR |Railyards| OR |Rocket Parts:12| OR (|Rocket Parts:12| AND |Color Energy Beam:7| AND |Color Underground Rocket|)"
-  },
-  {
-    "region": "Trophies",
-    "name": "Trophies: Pinky to the Rescue",
-    "category": [
-      "Trophies",
-      "add_pinky"
-    ],
-    "requires": "|Pinky| OR |Extra Pinky 1| OR |Extra Pinky 2| OR |Extra Pinky 3|"
-  },
-  {
-    "region": "Trophies",
-    "name": "Trophies: Piston Partisan",
-    "category": [
-      "Trophies"
-    ],
-    "requires": "|State College| OR |Progressive Story Level:5|"
-  },
-  {
-    "name": "Paradise Island Liberated",
-    "region": "Paradise Island",
-    "category": [
-      "01: Paradise Island"
-    ],
-    "requires": "|Paradise Island| OR |Progressive Story Level:1|"
-  },
-  {
-    "name": "Paradise Island: S Rank",
-    "region": "Paradise Island",
-    "category": [
-      "01: Paradise Island"
-    ],
-    "requires": "|Paradise Island| OR |Progressive Story Level:1|"
-  },
-  {
-    "name": "Paradise Island: Environment Medal (Gold)",
-    "region": "Paradise Island",
-    "category": [
-      "01: Paradise Island"
-    ],
-    "requires": "|Paradise Island| OR |Progressive Story Level:1|"
-  },
-  {
-    "name": "Paradise Island: Cleanup Medal (Gold)",
-    "region": "Paradise Island",
-    "category": [
-      "01: Paradise Island"
-    ],
-    "requires": "|Paradise Island| OR |Progressive Story Level:1|"
-  },
-  {
-    "name": "Paradise Island: Liberation Medal (Gold)",
-    "region": "Paradise Island",
-    "category": [
-      "01: Paradise Island"
-    ],
-    "requires": "|Paradise Island| OR |Progressive Story Level:1|"
-  },
-  {
-    "name": "Paradise Island: Inspired Collector",
-    "region": "Paradise Island",
-    "category": [
-      "01: Paradise Island"
-    ],
-    "requires": "|Paradise Island| OR |Progressive Story Level:1|"
-  },
-  {
-    "name": "Paradise Island: Artful Collector",
-    "region": "Paradise Island",
-    "category": [
-      "01: Paradise Island"
-    ],
-    "requires": "|Paradise Island| OR |Progressive Story Level:1|"
-  },
-  {
-    "name": "Paradise Island: Stylish Collector",
-    "region": "Paradise Island",
-    "category": [
-      "01: Paradise Island"
-    ],
-    "requires": "|Paradise Island| OR |Progressive Story Level:1|"
-  },
-  {
-    "name": "Downtown Liberated",
-    "region": "Downtown",
-    "category": [
-      "02: Downtown"
-    ],
-    "requires": "|Downtown| OR |Progressive Story Level:2|"
-  },
-  {
-    "name": "Downtown: S Rank",
-    "region": "Downtown",
-    "category": [
-      "02: Downtown"
-    ],
-    "requires": "|Downtown| OR |Progressive Story Level:2|"
-  },
-  {
-    "name": "Downtown: Environment Medal (Gold)",
-    "region": "Downtown",
-    "category": [
-      "02: Downtown"
-    ],
-    "requires": "|Downtown| OR |Progressive Story Level:2|"
-  },
-  {
-    "name": "Downtown: Cleanup Medal (Gold)",
-    "region": "Downtown",
-    "category": [
-      "02: Downtown"
-    ],
-    "requires": "|Downtown| OR |Progressive Story Level:2|"
-  },
-  {
-    "name": "Downtown: Liberation Medal (Gold)",
-    "region": "Downtown",
-    "category": [
-      "02: Downtown"
-    ],
-    "requires": "|Downtown| OR |Progressive Story Level:2|"
-  },
-  {
-    "name": "Downtown: Inspired Collector",
-    "region": "Downtown",
-    "category": [
-      "02: Downtown"
-    ],
-    "requires": "|Downtown| OR |Progressive Story Level:2|"
-  },
-  {
-    "name": "Downtown: Artful Collector",
-    "region": "Downtown",
-    "category": [
-      "02: Downtown"
-    ],
-    "requires": "|Downtown| OR |Progressive Story Level:2|"
-  },
-  {
-    "name": "Downtown: Stylish Collector",
-    "region": "Downtown",
-    "category": [
-      "02: Downtown"
-    ],
-    "requires": "|Downtown| OR |Progressive Story Level:2|"
-  },
-  {
-    "name": "Blanctown Liberated",
-    "region": "Blanctown",
-    "category": [
-      "03: Blanctown"
-    ],
-    "requires": "|Blanctown| OR |Progressive Story Level:3|"
-  },
-  {
-    "name": "Blanctown: S Rank",
-    "region": "Blanctown",
-    "category": [
-      "03: Blanctown"
-    ],
-    "requires": "|Blanctown| OR |Progressive Story Level:3|"
-  },
-  {
-    "name": "Blanctown: Environment Medal (Gold)",
-    "region": "Blanctown",
-    "category": [
-      "03: Blanctown"
-    ],
-    "requires": "|Blanctown| OR |Progressive Story Level:3|"
-  },
-  {
-    "name": "Blanctown: Cleanup Medal (Gold)",
-    "region": "Blanctown",
-    "category": [
-      "03: Blanctown"
-    ],
-    "requires": "|Blanctown| OR |Progressive Story Level:3|"
-  },
-  {
-    "name": "Blanctown: Liberation Medal (Gold)",
-    "region": "Blanctown",
-    "category": [
-      "03: Blanctown"
-    ],
-    "requires": "|Blanctown| OR |Progressive Story Level:3|"
-  },
-  {
-    "name": "Blanctown: Inspired Collector",
-    "region": "Blanctown",
-    "category": [
-      "03: Blanctown"
-    ],
-    "requires": "|Blanctown| OR |Progressive Story Level:3|"
-  },
-  {
-    "name": "Blanctown: Artful Collector",
-    "region": "Blanctown",
-    "category": [
-      "03: Blanctown"
-    ],
-    "requires": "|Blanctown| OR |Progressive Story Level:3|"
-  },
-  {
-    "name": "Blanctown: Stylish Collector",
-    "region": "Blanctown",
-    "category": [
-      "03: Blanctown"
-    ],
-    "requires": "|Blanctown| OR |Progressive Story Level:3|"
-  },
-  {
-    "name": "The Senate Liberated",
-    "region": "The Senate",
-    "category": [
-      "04: The Senate"
-    ],
-    "requires": "|The Senate| OR |Progressive Story Level:4|"
-  },
-  {
-    "name": "The Senate: S Rank",
-    "region": "The Senate",
-    "category": [
-      "04: The Senate"
-    ],
-    "requires": "|The Senate| OR |Progressive Story Level:4|"
-  },
-  {
-    "name": "The Senate: Environment Medal (Gold)",
-    "region": "The Senate",
-    "category": [
-      "04: The Senate"
-    ],
-    "requires": "|The Senate| OR |Progressive Story Level:4|"
-  },
-  {
-    "name": "The Senate: Cleanup Medal (Gold)",
-    "region": "The Senate",
-    "category": [
-      "04: The Senate"
-    ],
-    "requires": "|The Senate| OR |Progressive Story Level:4|"
-  },
-  {
-    "name": "The Senate: Liberation Medal (Gold)",
-    "region": "The Senate",
-    "category": [
-      "04: The Senate"
-    ],
-    "requires": "|The Senate| OR |Progressive Story Level:4|"
-  },
-  {
-    "name": "The Senate: Inspired Collector",
-    "region": "The Senate",
-    "category": [
-      "04: The Senate"
-    ],
-    "requires": "|The Senate| OR |Progressive Story Level:4|"
-  },
-  {
-    "name": "The Senate: Artful Collector",
-    "region": "The Senate",
-    "category": [
-      "04: The Senate"
-    ],
-    "requires": "|The Senate| OR |Progressive Story Level:4|"
-  },
-  {
-    "name": "The Senate: Stylish Collector",
-    "region": "The Senate",
-    "category": [
-      "04: The Senate"
-    ],
-    "requires": "|The Senate| OR |Progressive Story Level:4|"
-  },
-  {
-    "name": "State College Liberated",
-    "region": "State College (Comrade Black U.)",
-    "category": [
-      "05: State College (Comrade Black U.)"
-    ],
-    "requires": "|State College| OR |Progressive Story Level:5|"
-  },
-  {
-    "name": "State College: S Rank",
-    "region": "State College (Comrade Black U.)",
-    "category": [
-      "05: State College (Comrade Black U.)"
-    ],
-    "requires": "|State College| OR |Progressive Story Level:5|"
-  },
-  {
-    "name": "State College: Environment Medal (Gold)",
-    "region": "State College (Comrade Black U.)",
-    "category": [
-      "05: State College (Comrade Black U.)"
-    ],
-    "requires": "|State College| OR |Progressive Story Level:5|"
-  },
-  {
-    "name": "State College: Cleanup Medal (Gold)",
-    "region": "State College (Comrade Black U.)",
-    "category": [
-      "05: State College (Comrade Black U.)"
-    ],
-    "requires": "|State College| OR |Progressive Story Level:5|"
-  },
-  {
-    "name": "State College: Liberation Medal (Gold)",
-    "region": "State College (Comrade Black U.)",
-    "category": [
-      "05: State College (Comrade Black U.)"
-    ],
-    "requires": "|State College| OR |Progressive Story Level:5|"
-  },
-  {
-    "name": "State College: Inspired Collector",
-    "region": "State College (Comrade Black U.)",
-    "category": [
-      "05: State College (Comrade Black U.)"
-    ],
-    "requires": "|State College| OR |Progressive Story Level:5|"
-  },
-  {
-    "name": "State College: Artful Collector",
-    "region": "State College (Comrade Black U.)",
-    "category": [
-      "05: State College (Comrade Black U.)"
-    ],
-    "requires": "|State College| OR |Progressive Story Level:5|"
-  },
-  {
-    "name": "State College: Stylish Collector",
-    "region": "State College (Comrade Black U.)",
-    "category": [
-      "05: State College (Comrade Black U.)"
-    ],
-    "requires": "|State College| OR |Progressive Story Level:5|"
-  },
-  {
-    "name": "Soda Falls Liberated",
-    "region": "Soda Falls (Blanc Cola Cannery)",
-    "category": [
-      "06: Soda Falls (Blanc Cola Cannery)"
-    ],
-    "requires": "|Soda Falls| OR |Progressive Story Level:6|"
-  },
-  {
-    "name": "Soda Falls: S Rank",
-    "region": "Soda Falls (Blanc Cola Cannery)",
-    "category": [
-      "06: Soda Falls (Blanc Cola Cannery)"
-    ],
-    "requires": "|Soda Falls| OR |Progressive Story Level:6|"
-  },
-  {
-    "region": "Soda Falls (Blanc Cola Cannery)",
-    "name": "Soda Falls: Environment Medal (Gold)",
-    "category": [
-      "06: Soda Falls (Blanc Cola Cannery)"
-    ],
-    "requires": "|Soda Falls| OR |Progressive Story Level:6|"
-  },
-  {
-    "name": "Soda Falls: Cleanup Medal (Gold)",
-    "region": "Soda Falls (Blanc Cola Cannery)",
-    "category": [
-      "06: Soda Falls (Blanc Cola Cannery)"
-    ],
-    "requires": "|Soda Falls| OR |Progressive Story Level:6|"
-  },
-  {
-    "region": "Soda Falls (Blanc Cola Cannery)",
-    "name": "Soda Falls: Liberation Medal (Gold)",
-    "category": [
-      "06: Soda Falls (Blanc Cola Cannery)"
-    ],
-    "requires": "|Soda Falls| OR |Progressive Story Level:6|"
-  },
-  {
-    "region": "Soda Falls (Blanc Cola Cannery)",
-    "name": "Soda Falls: Inspired Collector",
-    "category": [
-      "06: Soda Falls (Blanc Cola Cannery)"
-    ],
-    "requires": "|Soda Falls| OR |Progressive Story Level:6|"
-  },
-  {
-    "region": "Soda Falls (Blanc Cola Cannery)",
-    "name": "Soda Falls: Artful Collector",
-    "category": [
-      "06: Soda Falls (Blanc Cola Cannery)"
-    ],
-    "requires": "|Soda Falls| OR |Progressive Story Level:6|"
-  },
-  {
-    "region": "Soda Falls (Blanc Cola Cannery)",
-    "name": "Soda Falls: Stylish Collector",
-    "category": [
-      "06: Soda Falls (Blanc Cola Cannery)"
-    ],
-    "requires": "|Soda Falls| OR |Progressive Story Level:6|"
-  },
-  {
-    "name": "Hydro Station Liberated",
-    "region": "Hydro Station (Inktron Collider)",
-    "category": [
-      "07: Hydro Station (Inktron Collider)"
-    ],
-    "requires": "|Hydro Station| OR |Progressive Story Level:7|"
-  },
-  {
-    "name": "Hydro Station: S Rank",
-    "region": "Hydro Station (Inktron Collider)",
-    "category": [
-      "07: Hydro Station (Inktron Collider)"
-    ],
-    "requires": "|Hydro Station| OR |Progressive Story Level:7|"
-  },
-  {
-    "name": "Hydro Station: Environment Medal (Gold)",
-    "region": "Hydro Station (Inktron Collider)",
-    "category": [
-      "07: Hydro Station (Inktron Collider)"
-    ],
-    "requires": "|Hydro Station| OR |Progressive Story Level:7|"
-  },
-  {
-    "name": "Hydro Station: Cleanup Medal (Gold)",
-    "region": "Hydro Station (Inktron Collider)",
-    "category": [
-      "07: Hydro Station (Inktron Collider)"
-    ],
-    "requires": "|Hydro Station| OR |Progressive Story Level:7|"
-  },
-  {
-    "name": "Hydro Station: Liberation Medal (Gold)",
-    "region": "Hydro Station (Inktron Collider)",
-    "category": [
-      "07: Hydro Station (Inktron Collider)"
-    ],
-    "requires": "|Hydro Station| OR |Progressive Story Level:7|"
-  },
-  {
-    "name": "Hydro Station: Inspired Collector",
-    "region": "Hydro Station (Inktron Collider)",
-    "category": [
-      "07: Hydro Station (Inktron Collider)"
-    ],
-    "requires": "|Hydro Station| OR |Progressive Story Level:7|"
-  },
-  {
-    "name": "Hydro Station: Artful Collector",
-    "region": "Hydro Station (Inktron Collider)",
-    "category": [
-      "07: Hydro Station (Inktron Collider)"
-    ],
-    "requires": "|Hydro Station| OR |Progressive Story Level:7|"
-  },
-  {
-    "name": "Hydro Station: Stylish Collector",
-    "region": "Hydro Station (Inktron Collider)",
-    "category": [
-      "07: Hydro Station (Inktron Collider)"
-    ],
-    "requires": "|Hydro Station| OR |Progressive Story Level:7|"
-  },
-  {
-    "name": "House of Fun Liberated",
-    "region": "House of Fun (Blanc TV Factory)",
-    "category": [
-      "08: House of Fun (Blanc TV Factory)"
-    ],
-    "requires": "|House of Fun| OR |Progressive Story Level:8|"
-  },
-  {
-    "name": "House of Fun: S Rank",
-    "region": "House of Fun (Blanc TV Factory)",
-    "category": [
-      "08: House of Fun (Blanc TV Factory)"
-    ],
-    "requires": "|House of Fun| OR |Progressive Story Level:8|"
-  },
-  {
-    "name": "House of Fun: Environment Medal (Gold)",
-    "region": "House of Fun (Blanc TV Factory)",
-    "category": [
-      "08: House of Fun (Blanc TV Factory)"
-    ],
-    "requires": "|House of Fun| OR |Progressive Story Level:8|"
-  },
-  {
-    "name": "House of Fun: Cleanup Medal (Gold)",
-    "region": "House of Fun (Blanc TV Factory)",
-    "category": [
-      "08: House of Fun (Blanc TV Factory)"
-    ],
-    "requires": "|House of Fun| OR |Progressive Story Level:8|"
-  },
-  {
-    "name": "House of Fun: Liberation Medal (Gold)",
-    "region": "House of Fun (Blanc TV Factory)",
-    "category": [
-      "08: House of Fun (Blanc TV Factory)"
-    ],
-    "requires": "|House of Fun| OR |Progressive Story Level:8|"
-  },
-  {
-    "name": "House of Fun: Inspired Collector",
-    "region": "House of Fun (Blanc TV Factory)",
-    "category": [
-      "08: House of Fun (Blanc TV Factory)"
-    ],
-    "requires": "|House of Fun| OR |Progressive Story Level:8|"
-  },
-  {
-    "region": "House of Fun (Blanc TV Factory)",
-    "name": "House of Fun: Artful Collector",
-    "category": [
-      "08: House of Fun (Blanc TV Factory)"
-    ],
-    "requires": "|House of Fun| OR |Progressive Story Level:8|"
-  },
-  {
-    "name": "House of Fun: Stylish Collector",
-    "region": "House of Fun (Blanc TV Factory)",
-    "category": [
-      "08: House of Fun (Blanc TV Factory)"
-    ],
-    "requires": "|House of Fun| OR |Progressive Story Level:8|"
-  },
-  {
-    "name": "Orbital Habitats Liberated",
-    "region": "Orbital Habitats (Prison Zoo)",
-    "category": [
-      "09: Orbital Habitats (Prison Zoo)"
-    ],
-    "requires": "|Orbital Habitats| OR |Progressive Story Level:9|"
-  },
-  {
-    "name": "Orbital Habitats: S Rank",
-    "region": "Orbital Habitats (Prison Zoo)",
-    "category": [
-      "09: Orbital Habitats (Prison Zoo)"
-    ],
-    "requires": "|Orbital Habitats| OR |Progressive Story Level:9|"
-  },
-  {
-    "name": "Orbital Habitats: Environment Medal (Gold)",
-    "region": "Orbital Habitats (Prison Zoo)",
-    "category": [
-      "09: Orbital Habitats (Prison Zoo)"
-    ],
-    "requires": "|Orbital Habitats| OR |Progressive Story Level:9|"
-  },
-  {
-    "name": "Orbital Habitats: Cleanup Medal (Gold)",
-    "region": "Orbital Habitats (Prison Zoo)",
-    "category": [
-      "09: Orbital Habitats (Prison Zoo)"
-    ],
-    "requires": "|Orbital Habitats| OR |Progressive Story Level:9|"
-  },
-  {
-    "name": "Orbital Habitats: Liberation Medal (Gold)",
-    "region": "Orbital Habitats (Prison Zoo)",
-    "category": [
-      "09: Orbital Habitats (Prison Zoo)"
-    ],
-    "requires": "|Orbital Habitats| OR |Progressive Story Level:9|"
-  },
-  {
-    "name": "Orbital Habitats: Inspired Collector",
-    "region": "Orbital Habitats (Prison Zoo)",
-    "category": [
-      "09: Orbital Habitats (Prison Zoo)"
-    ],
-    "requires": "|Orbital Habitats| OR |Progressive Story Level:9|"
-  },
-  {
-    "name": "Orbital Habitats: Artful Collector",
-    "region": "Orbital Habitats (Prison Zoo)",
-    "category": [
-      "09: Orbital Habitats (Prison Zoo)"
-    ],
-    "requires": "|Orbital Habitats| OR |Progressive Story Level:9|"
-  },
-  {
-    "name": "Orbital Habitats: Stylish Collector",
-    "region": "Orbital Habitats (Prison Zoo)",
-    "category": [
-      "09: Orbital Habitats (Prison Zoo)"
-    ],
-    "requires": "|Orbital Habitats| OR |Progressive Story Level:9|"
-  },
-  {
-    "name": "Railyards Liberated",
-    "region": "Railyards (Inky Fabricator)",
-    "category": [
-      "10: Railyards (Inky Fabricator)"
-    ],
-    "requires": "|Railyards| OR |Progressive Story Level:10|"
-  },
-  {
-    "name": "Railyards: S Rank",
-    "region": "Railyards (Inky Fabricator)",
-    "category": [
-      "10: Railyards (Inky Fabricator)"
-    ],
-    "requires": "|Railyards| OR |Progressive Story Level:10|"
-  },
-  {
-    "region": "Railyards (Inky Fabricator)",
-    "name": "Railyards: Environment Medal (Gold)",
-    "category": [
-      "10: Railyards (Inky Fabricator)"
-    ],
-    "requires": "|Railyards| OR |Progressive Story Level:10|"
-  },
-  {
-    "region": "Railyards (Inky Fabricator)",
-    "name": "Railyards: Cleanup Medal (Gold)",
-    "category": [
-      "10: Railyards (Inky Fabricator)"
-    ],
-    "requires": "|Railyards| OR |Progressive Story Level:10|"
-  },
-  {
-    "region": "Railyards (Inky Fabricator)",
-    "name": "Railyards: Liberation Medal (Gold)",
-    "category": [
-      "10: Railyards (Inky Fabricator)"
-    ],
-    "requires": "|Railyards| OR |Progressive Story Level:10|"
-  },
-  {
-    "region": "Railyards (Inky Fabricator)",
-    "name": "Railyards: Inspired Collector",
-    "category": [
-      "10: Railyards (Inky Fabricator)"
-    ],
-    "requires": "|Railyards| OR |Progressive Story Level:10|"
-  },
-  {
-    "region": "Railyards (Inky Fabricator)",
-    "name": "Railyards: Artful Collector",
-    "category": [
-      "10: Railyards (Inky Fabricator)"
-    ],
-    "requires": "|Railyards| OR |Progressive Story Level:10|"
-  },
-  {
-    "region": "Railyards (Inky Fabricator)",
-    "name": "Railyards: Stylish Collector",
-    "category": [
-      "10: Railyards (Inky Fabricator)"
-    ],
-    "requires": "|Railyards| OR |Progressive Story Level:10|"
-  },
-  {
-    "region": "Rocket Range",
-    "name": "Rocket Range: S Rank",
-    "category": [
-      "11: Rocket Range"
-    ],
-    "requires": "|Rocket Parts:12| OR |Progressive Story Level:11|"
-  },
-  {
-    "region": "Rocket Range",
-    "name": "Rocket Range: Environment Medal (Gold)",
-    "category": [
-      "11: Rocket Range"
-    ],
-    "requires": "|Rocket Parts:12| OR |Progressive Story Level:11|"
-  },
-  {
-    "name": "Rocket Range: Cleanup Medal (Gold)",
-    "region": "Rocket Range",
-    "category": [
-      "11: Rocket Range"
-    ],
-    "requires": "|Rocket Parts:12| OR |Progressive Story Level:11|"
-  },
-  {
-    "name": "Rocket Range: Liberation Medal (Gold)",
-    "region": "Rocket Range",
-    "category": [
-      "11: Rocket Range"
-    ],
-    "requires": "|Rocket Parts:12| OR |Progressive Story Level:11|"
-  },
-  {
-    "name": "Rocket Range: Inspired Collector",
-    "region": "Rocket Range",
-    "category": [
-      "11: Rocket Range"
-    ],
-    "requires": "|Rocket Parts:12| OR |Progressive Story Level:11|"
-  },
-  {
-    "name": "Rocket Range: Artful Collector",
-    "region": "Rocket Range",
-    "category": [
-      "11: Rocket Range"
-    ],
-    "requires": "|Rocket Parts:12| OR |Progressive Story Level:11|"
-  },
-  {
-    "name": "Rocket Range: Stylish Collector",
-    "region": "Rocket Range",
-    "category": [
-      "11: Rocket Range"
-    ],
-    "requires": "|Rocket Parts:12| OR |Progressive Story Level:11|"
-  },
-  {
-    "name": "Hypno Ray: S Rank",
-    "region": "Hypno Ray",
-    "category": [
-      "12: Hypno Ray"
-    ],
-    "requires": "(|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|) OR (|Progressive Story Level:12|)"
-  },
-  {
-    "name": "Hypno Ray: Environment Medal (Gold)",
-    "region": "Hypno Ray",
-    "category": [
-      "12: Hypno Ray"
-    ],
-    "requires": "(|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|) OR (|Progressive Story Level:12|)"
-  },
-  {
-    "name": "Hypno Ray: Cleanup Medal (Gold)",
-    "region": "Hypno Ray",
-    "category": [
-      "12: Hypno Ray"
-    ],
-    "requires": "(|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|) OR (|Progressive Story Level:12|)"
-  },
-  {
-    "name": "Hypno Ray: Liberation Medal (Gold)",
-    "region": "Hypno Ray",
-    "category": [
-      "12: Hypno Ray"
-    ],
-    "requires": "(|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|) OR (|Progressive Story Level:12|)"
-  },
-  {
-    "name": "Hypno Ray: Inspired Collector",
-    "region": "Hypno Ray",
-    "category": [
-      "12: Hypno Ray"
-    ],
-    "requires": "(|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|) OR (|Progressive Story Level:12|)"
-  },
-  {
-    "name": "Hypno Ray: Artful Collector",
-    "region": "Hypno Ray",
-    "category": [
-      "12: Hypno Ray"
-    ],
-    "requires": "(|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|) OR (|Progressive Story Level:12|)"
-  },
-  {
-    "name": "Hypno Ray: Stylish Collector",
-    "region": "Hypno Ray",
-    "category": [
-      "12: Hypno Ray"
-    ],
-    "requires": "(|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|) OR (|Progressive Story Level:12|)"
-  }
+  {"name": "Rocket Launched",                                            "sort-key": "11-1-0",  "region": "Rocket Range",                     "category": ["11: Rocket Range"],                                                 "requires": "|Progressive Story Level:11|   OR |Rocket Parts:12|","place_item": ["Color Underground Rocket"]},
+  {"name": "Hypno Ray Destroyed",                                        "sort-key": "12-1-0",  "region": "Hypno Ray",                        "category": ["12: Hypno Ray"],                                                    "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)","victory": true},
+  {"name": "Trophies: Blob Survivor",                                    "sort-key": "t-1",     "region": "Trophies",                         "category": ["Trophies"],                                                         "requires": "|Progressive Story Level:1|    OR |Paradise Island| OR |Downtown| OR |Blanctown| OR |The Senate| OR |State College| OR |Soda Falls| OR |Hydro Station| OR |House of Fun| OR |Orbital Habitats| OR |Railyards| OR |Rocket Parts:12| OR (|Rocket Parts:12| AND |Color Energy Beam:7| AND |Color Underground Rocket|)"},
+  {"name": "Trophies: Piston Partisan",                                  "sort-key": "t-2",     "region": "Trophies",                         "category": ["Trophies"],                                                         "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "Trophies: Pinky to the Rescue",                              "sort-key": "t-3",     "region": "Trophies",                         "category": ["Trophies","add_pinky"],                                             "requires": "|Pinky| OR |Extra Pinky 1| OR |Extra Pinky 2| OR |Extra Pinky 3|"},
+  {"name": "PI01: The First of Many",                                    "sort-key": "01-0-1",  "region": "Paradise Island",                  "category": ["01: Paradise Island","transformsanity_heavy"],                      "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "PI02: Comrade Statue Crumbled",                              "sort-key": "01-0-2",  "region": "Paradise Island",                  "category": ["01: Paradise Island","transformsanity_heavy"],                      "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "PI03: Third Time's the Charm",                               "sort-key": "01-0-3",  "region": "Paradise Island",                  "category": ["01: Paradise Island","transformsanity_heavy"],                      "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "PI04: Tiki Village Liberated",                               "sort-key": "01-0-4",  "region": "Paradise Island",                  "category": ["01: Paradise Island","transformsanity_heavy"],                      "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "PI05: Lighthouse Liberated",                                 "sort-key": "01-0-5",  "region": "Paradise Island",                  "category": ["01: Paradise Island","transformsanity_light"],                      "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island Liberated",                                  "sort-key": "01-1-0",  "region": "Paradise Island",                  "category": ["01: Paradise Island"],                                              "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: S Rank",                                    "sort-key": "01-1-1",  "region": "Paradise Island",                  "category": ["01: Paradise Island","s_rank"],                                     "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Bronze Environment Medal",                  "sort-key": "01-2-1",  "region": "Paradise Island",                  "category": ["01: Paradise Island","bronze_environment_medals"],                  "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Bronze Cleanup Medal",                      "sort-key": "01-2-2",  "region": "Paradise Island",                  "category": ["01: Paradise Island","bronze_cleanup_medals"],                      "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Bronze Liberation Medal",                   "sort-key": "01-2-3",  "region": "Paradise Island",                  "category": ["01: Paradise Island","bronze_liberation_medals"],                   "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Silver Environment Medal",                  "sort-key": "01-3-1",  "region": "Paradise Island",                  "category": ["01: Paradise Island","silver_environment_medals"],                  "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Silver Cleanup Medal",                      "sort-key": "01-3-2",  "region": "Paradise Island",                  "category": ["01: Paradise Island","silver_cleanup_medals"],                      "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Silver Liberation Medal",                   "sort-key": "01-3-3",  "region": "Paradise Island",                  "category": ["01: Paradise Island","silver_liberation_medals"],                   "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Gold Environment Medal",                    "sort-key": "01-4-1",  "region": "Paradise Island",                  "category": ["01: Paradise Island","gold_environment_medals"],                    "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Gold Cleanup Medal",                        "sort-key": "01-4-2",  "region": "Paradise Island",                  "category": ["01: Paradise Island","gold_cleanup_medals"],                        "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Gold Liberation Medal",                     "sort-key": "01-4-3",  "region": "Paradise Island",                  "category": ["01: Paradise Island","gold_liberation_medals"],                     "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Inspired Collector",                        "sort-key": "01-5-1",  "region": "Paradise Island",                  "category": ["01: Paradise Island","inspired_collector"],                         "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Artful Collector",                          "sort-key": "01-5-2",  "region": "Paradise Island",                  "category": ["01: Paradise Island","artful_collector"],                           "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "Paradise Island: Stylish Collector",                         "sort-key": "01-5-3",  "region": "Paradise Island",                  "category": ["01: Paradise Island","stylish_collector"],                          "requires": "|Progressive Story Level:1|  OR |Paradise Island|"},
+  {"name": "DT01: Docklands Repainted",                                  "sort-key": "02-0-1",  "region": "Downtown",                         "category": ["02: Downtown","transformsanity_light"],                             "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "DT02: The Prisma Film Festival is back in season!",          "sort-key": "02-0-2",  "region": "Downtown",                         "category": ["02: Downtown","transformsanity_light"],                             "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown Liberated",                                         "sort-key": "02-1-0",  "region": "Downtown",                         "category": ["02: Downtown"],                                                     "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: S Rank",                                           "sort-key": "02-1-1",  "region": "Downtown",                         "category": ["02: Downtown","s_rank"],                                            "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Bronze Environment Medal",                         "sort-key": "02-2-1",  "region": "Downtown",                         "category": ["02: Downtown","bronze_environment_medals"],                         "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Bronze Cleanup Medal",                             "sort-key": "02-2-2",  "region": "Downtown",                         "category": ["02: Downtown","bronze_cleanup_medals"],                             "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Bronze Liberation Medal",                          "sort-key": "02-2-3",  "region": "Downtown",                         "category": ["02: Downtown","bronze_liberation_medals"],                          "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Silver Environment Medal",                         "sort-key": "02-3-1",  "region": "Downtown",                         "category": ["02: Downtown","silver_environment_medals"],                         "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Silver Cleanup Medal",                             "sort-key": "02-3-2",  "region": "Downtown",                         "category": ["02: Downtown","silver_cleanup_medals"],                             "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Silver Liberation Medal",                          "sort-key": "02-3-3",  "region": "Downtown",                         "category": ["02: Downtown","silver_liberation_medals"],                          "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Gold Environment Medal",                           "sort-key": "02-4-1",  "region": "Downtown",                         "category": ["02: Downtown","gold_environment_medals"],                           "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Gold Cleanup Medal",                               "sort-key": "02-4-2",  "region": "Downtown",                         "category": ["02: Downtown","gold_cleanup_medals"],                               "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Gold Liberation Medal",                            "sort-key": "02-4-3",  "region": "Downtown",                         "category": ["02: Downtown","gold_liberation_medals"],                            "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Inspired Collector",                               "sort-key": "02-5-1",  "region": "Downtown",                         "category": ["02: Downtown","inspired_collector"],                                "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Artful Collector",                                 "sort-key": "02-5-2",  "region": "Downtown",                         "category": ["02: Downtown","artful_collector"],                                  "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "Downtown: Stylish Collector",                                "sort-key": "02-5-3",  "region": "Downtown",                         "category": ["02: Downtown","stylish_collector"],                                 "requires": "|Progressive Story Level:2|  OR |Downtown|"},
+  {"name": "BT01: Transformative Literature",                            "sort-key": "03-0-1",  "region": "Blanctown",                        "category": ["03: Blanctown","transformsanity_heavy"],                            "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "BT02: Town Hall Paintbots Released",                         "sort-key": "03-0-2",  "region": "Blanctown",                        "category": ["03: Blanctown","transformsanity_heavy"],                            "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "BT03: Canal Estates Liberated",                              "sort-key": "03-0-3",  "region": "Blanctown",                        "category": ["03: Blanctown","transformsanity_light"],                            "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "BT04: Church Island Restored",                               "sort-key": "03-0-4",  "region": "Blanctown",                        "category": ["03: Blanctown","transformsanity_heavy"],                            "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "BT05: Church Island District Liberated",                     "sort-key": "03-0-5",  "region": "Blanctown",                        "category": ["03: Blanctown","transformsanity_light"],                            "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown Liberated",                                        "sort-key": "03-1-0",  "region": "Blanctown",                        "category": ["03: Blanctown"],                                                    "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: S Rank",                                          "sort-key": "03-1-1",  "region": "Blanctown",                        "category": ["03: Blanctown","s_rank"],                                           "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Bronze Environment Medal",                        "sort-key": "03-2-1",  "region": "Blanctown",                        "category": ["03: Blanctown","bronze_environment_medals"],                        "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Bronze Cleanup Medal",                            "sort-key": "03-2-2",  "region": "Blanctown",                        "category": ["03: Blanctown","bronze_cleanup_medals"],                            "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Bronze Liberation Medal",                         "sort-key": "03-2-3",  "region": "Blanctown",                        "category": ["03: Blanctown","bronze_liberation_medals"],                         "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Silver Environment Medal",                        "sort-key": "03-3-1",  "region": "Blanctown",                        "category": ["03: Blanctown","silver_environment_medals"],                        "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Silver Cleanup Medal",                            "sort-key": "03-3-2",  "region": "Blanctown",                        "category": ["03: Blanctown","silver_cleanup_medals"],                            "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Silver Liberation Medal",                         "sort-key": "03-3-3",  "region": "Blanctown",                        "category": ["03: Blanctown","silver_liberation_medals"],                         "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Gold Environment Medal",                          "sort-key": "03-4-1",  "region": "Blanctown",                        "category": ["03: Blanctown","gold_environment_medals"],                          "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Gold Cleanup Medal",                              "sort-key": "03-4-2",  "region": "Blanctown",                        "category": ["03: Blanctown","gold_cleanup_medals"],                              "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Gold Liberation Medal",                           "sort-key": "03-4-3",  "region": "Blanctown",                        "category": ["03: Blanctown","gold_liberation_medals"],                           "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Inspired Collector",                              "sort-key": "03-5-1",  "region": "Blanctown",                        "category": ["03: Blanctown","inspired_collector"],                               "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Artful Collector",                                "sort-key": "03-5-2",  "region": "Blanctown",                        "category": ["03: Blanctown","artful_collector"],                                 "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "Blanctown: Stylish Collector",                               "sort-key": "03-5-3",  "region": "Blanctown",                        "category": ["03: Blanctown","stylish_collector"],                                "requires": "|Progressive Story Level:3|  OR |Blanctown|"},
+  {"name": "TS01: Colorist Negotiation",                                 "sort-key": "04-0-1",  "region": "The Senate",                       "category": ["04: The Senate","transformsanity_heavy"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "TS02: Bogus Ballot Break-In",                                "sort-key": "04-0-2",  "region": "The Senate",                       "category": ["04: The Senate","transformsanity_heavy"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "TS03: People's Plaza Liberated",                             "sort-key": "04-0-3",  "region": "The Senate",                       "category": ["04: The Senate","transformsanity_light"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "TS04: PAINT THE POLICE!!",                                   "sort-key": "04-0-4",  "region": "The Senate",                       "category": ["04: The Senate","transformsanity_heavy"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "TS05: The Prisman Parties' Power",                           "sort-key": "04-0-5",  "region": "The Senate",                       "category": ["04: The Senate","transformsanity_heavy"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "TS06: 'Nobody trusts money they can't see!'",                "sort-key": "04-0-6",  "region": "The Senate",                       "category": ["04: The Senate","transformsanity_heavy"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "TS07: Capitol Square Liberated",                             "sort-key": "04-0-7",  "region": "The Senate",                       "category": ["04: The Senate","transformsanity_light"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "TS08: Colorists At Large",                                   "sort-key": "04-0-8",  "region": "The Senate",                       "category": ["04: The Senate","transformsanity_heavy"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "TS09: Prisman Memorial Protector",                           "sort-key": "04-0-9",  "region": "The Senate",                       "category": ["04: The Senate","transformsanity_heavy"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate Liberated",                                       "sort-key": "04-1-0",  "region": "The Senate",                       "category": ["04: The Senate"],                                                   "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: S Rank",                                         "sort-key": "04-1-1",  "region": "The Senate",                       "category": ["04: The Senate","s_rank"],                                          "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Bronze Environment Medal",                       "sort-key": "04-2-1",  "region": "The Senate",                       "category": ["04: The Senate","bronze_environment_medals"],                       "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Bronze Cleanup Medal",                           "sort-key": "04-2-2",  "region": "The Senate",                       "category": ["04: The Senate","bronze_cleanup_medals"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Bronze Liberation Medal",                        "sort-key": "04-2-3",  "region": "The Senate",                       "category": ["04: The Senate","bronze_liberation_medals"],                        "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Silver Environment Medal",                       "sort-key": "04-3-1",  "region": "The Senate",                       "category": ["04: The Senate","silver_environment_medals"],                       "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Silver Cleanup Medal",                           "sort-key": "04-3-2",  "region": "The Senate",                       "category": ["04: The Senate","silver_cleanup_medals"],                           "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Silver Liberation Medal",                        "sort-key": "04-3-3",  "region": "The Senate",                       "category": ["04: The Senate","silver_liberation_medals"],                        "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Gold Environment Medal",                         "sort-key": "04-4-1",  "region": "The Senate",                       "category": ["04: The Senate","gold_environment_medals"],                         "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Gold Cleanup Medal",                             "sort-key": "04-4-2",  "region": "The Senate",                       "category": ["04: The Senate","gold_cleanup_medals"],                             "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Gold Liberation Medal",                          "sort-key": "04-4-3",  "region": "The Senate",                       "category": ["04: The Senate","gold_liberation_medals"],                          "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Inspired Collector",                             "sort-key": "04-5-1",  "region": "The Senate",                       "category": ["04: The Senate","inspired_collector"],                              "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Artful Collector",                               "sort-key": "04-5-2",  "region": "The Senate",                       "category": ["04: The Senate","artful_collector"],                                "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "The Senate: Stylish Collector",                              "sort-key": "04-5-3",  "region": "The Senate",                       "category": ["04: The Senate","stylish_collector"],                               "requires": "|Progressive Story Level:4|  OR |The Senate|"},
+  {"name": "SC01: Viva la Blob!",                                        "sort-key": "05-0-1",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","transformsanity_heavy"],     "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "SC02: Heavy Inkies on Campus",                               "sort-key": "05-0-2",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","transformsanity_heavy"],     "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "SC03: No batons in the library!",                            "sort-key": "05-0-3",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","transformsanity_heavy"],     "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "SC04: Detention Deferred",                                   "sort-key": "05-0-4",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","transformsanity_heavy"],     "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "SC05: Arts Faculty Liberated",                               "sort-key": "05-0-5",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","transformsanity_light"],     "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "SC06: Engineering Faculty Liberated",                        "sort-key": "05-0-6",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","transformsanity_light"],     "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "SC07: Power Plant Restarted",                                "sort-key": "05-0-7",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","transformsanity_heavy"],     "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College Liberated",                                    "sort-key": "05-1-0",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)"],                             "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: S Rank",                                      "sort-key": "05-1-1",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","s_rank"],                    "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Bronze Environment Medal",                    "sort-key": "05-2-1",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","bronze_environment_medals"], "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Bronze Cleanup Medal",                        "sort-key": "05-2-2",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","bronze_cleanup_medals"],     "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Bronze Liberation Medal",                     "sort-key": "05-2-3",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","bronze_liberation_medals"],  "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Silver Environment Medal",                    "sort-key": "05-3-1",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","silver_environment_medals"], "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Silver Cleanup Medal",                        "sort-key": "05-3-2",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","silver_cleanup_medals"],     "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Silver Liberation Medal",                     "sort-key": "05-3-3",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","silver_liberation_medals"],  "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Gold Environment Medal",                      "sort-key": "05-4-1",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","gold_environment_medals"],   "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Gold Cleanup Medal",                          "sort-key": "05-4-2",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","gold_cleanup_medals"],       "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Gold Liberation Medal",                       "sort-key": "05-4-3",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","gold_liberation_medals"],    "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Inspired Collector",                          "sort-key": "05-5-1",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","inspired_collector"],        "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Artful Collector",                            "sort-key": "05-5-2",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","artful_collector"],          "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "State College: Stylish Collector",                           "sort-key": "05-5-3",  "region": "State College (Comrade Black U.)", "category": ["05: State College (Comrade Black U.)","stylish_collector"],         "requires": "|Progressive Story Level:5|  OR |State College|"},
+  {"name": "SF01: Lemony Zest Tower Restored",                           "sort-key": "06-0-01", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","transformsanity_heavy"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "SF02: Red Rhumba Tower Restored",                            "sort-key": "06-0-02", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","transformsanity_heavy"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "SF03: Blue Ruin Tower Restored",                             "sort-key": "06-0-03", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","transformsanity_heavy"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "SF04: Primary Pop Towers Restored",                          "sort-key": "06-0-04", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","transformsanity_light"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "SF05: Secondary Sodas Primed",                               "sort-key": "06-0-05", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","transformsanity_heavy"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "SF06: Lime Time Tower Restored",                             "sort-key": "06-0-06", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","transformsanity_heavy"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "SF07: Orange Ale Tower Restored",                            "sort-key": "06-0-07", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","transformsanity_heavy"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "SF08: Grape Escape Tower Restored",                          "sort-key": "06-0-08", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","transformsanity_heavy"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "SF09: Secondary Soda Towers Restored",                       "sort-key": "06-0-09", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","transformsanity_light"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "SF10: Soda Falls Canyon Crossed",                            "sort-key": "06-0-10", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","transformsanity_heavy"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls Liberated",                                       "sort-key": "06-1-0", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)"],                              "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: S Rank",                                         "sort-key": "06-1-1", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","s_rank"],                     "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Bronze Environment Medal",                       "sort-key": "06-2-1", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","bronze_environment_medals"],  "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Bronze Cleanup Medal",                           "sort-key": "06-2-2", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","bronze_cleanup_medals"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Bronze Liberation Medal",                        "sort-key": "06-2-3", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","bronze_liberation_medals"],   "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Silver Environment Medal",                       "sort-key": "06-3-1", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","silver_environment_medals"],  "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Silver Cleanup Medal",                           "sort-key": "06-3-2", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","silver_cleanup_medals"],      "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Silver Liberation Medal",                        "sort-key": "06-3-3", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","silver_liberation_medals"],   "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Gold Environment Medal",                         "sort-key": "06-4-1", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","gold_environment_medals"],    "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Gold Cleanup Medal",                             "sort-key": "06-4-2", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","gold_cleanup_medals"],        "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Gold Liberation Medal",                          "sort-key": "06-4-3", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","gold_liberation_medals"],     "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Inspired Collector",                             "sort-key": "06-5-1", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","inspired_collector"],         "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Artful Collector",                               "sort-key": "06-5-2", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","artful_collector"],           "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "Soda Falls: Stylish Collector",                              "sort-key": "06-5-3", "region": "Soda Falls (Blanc Cola Cannery)",  "category": ["06: Soda Falls (Blanc Cola Cannery)","stylish_collector"],          "requires": "|Progressive Story Level:6|  OR |Soda Falls|"},
+  {"name": "HS01: Police Station Painted",                               "sort-key": "07-0-1", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","transformsanity_heavy"],     "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "HS02: Top of the Frozen Ink Melted!",                        "sort-key": "07-0-2", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","transformsanity_light"],     "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "HS03: Police Station Popped",                                "sort-key": "07-0-3", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","transformsanity_heavy"],     "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "HS04: Bunsen Burner Breakout!",                              "sort-key": "07-0-4", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","transformsanity_heavy"],     "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "HS05: All of the Frozen Ink Melted!",                        "sort-key": "07-0-5", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","transformsanity_light"],     "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station Liberated",                                    "sort-key": "07-1-0", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)"],                             "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: S Rank",                                      "sort-key": "07-1-1", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","s_rank"],                    "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Bronze Environment Medal",                    "sort-key": "07-2-1", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","bronze_environment_medals"], "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Bronze Cleanup Medal",                        "sort-key": "07-2-2", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","bronze_cleanup_medals"],     "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Bronze Liberation Medal",                     "sort-key": "07-2-3", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","bronze_liberation_medals"],  "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Silver Environment Medal",                    "sort-key": "07-3-1", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","silver_environment_medals"], "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Silver Cleanup Medal",                        "sort-key": "07-3-2", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","silver_cleanup_medals"],     "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Silver Liberation Medal",                     "sort-key": "07-3-3", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","silver_liberation_medals"],  "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Gold Environment Medal",                      "sort-key": "07-4-1", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","gold_environment_medals"],   "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Gold Cleanup Medal",                          "sort-key": "07-4-2", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","gold_cleanup_medals"],       "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Gold Liberation Medal",                       "sort-key": "07-4-3", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","gold_liberation_medals"],    "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Inspired Collector",                          "sort-key": "07-5-1", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","inspired_collector"],        "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Artful Collector",                            "sort-key": "07-5-2", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","artful_collector"],          "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "Hydro Station: Stylish Collector",                           "sort-key": "07-5-3", "region": "Hydro Station (Inktron Collider)", "category": ["07: Hydro Station (Inktron Collider)","stylish_collector"],         "requires": "|Progressive Story Level:7|  OR |Hydro Station|"},
+  {"name": "HF01: Cliffside Village Liberated",                          "sort-key": "08-0-1", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","transformsanity_light"],      "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "HF02: Blanc TV Production Cancelled",                        "sort-key": "08-0-2", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","transformsanity_heavy"],      "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "HF03: Blanc TV Testing Aborted",                             "sort-key": "08-0-3", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","transformsanity_heavy"],      "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "HF04: Blanc TV Packaging Scrapped",                          "sort-key": "08-0-4", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","transformsanity_heavy"],      "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "HF05: House of Fun Interior Restored",                       "sort-key": "08-0-5", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","transformsanity_light"],      "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun Liberated",                                     "sort-key": "08-1-0", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)"],                              "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: S Rank",                                       "sort-key": "08-1-1", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","s_rank"],                     "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Bronze Environment Medal",                     "sort-key": "08-2-1", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","bronze_environment_medals"],  "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Bronze Cleanup Medal",                         "sort-key": "08-2-2", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","bronze_cleanup_medals"],      "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Bronze Liberation Medal",                      "sort-key": "08-2-3", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","bronze_liberation_medals"],   "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Silver Environment Medal",                     "sort-key": "08-3-1", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","silver_environment_medals"],  "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Silver Cleanup Medal",                         "sort-key": "08-3-2", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","silver_cleanup_medals"],      "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Silver Liberation Medal",                      "sort-key": "08-3-3", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","silver_liberation_medals"],   "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Gold Environment Medal",                       "sort-key": "08-4-1", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","gold_environment_medals"],    "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Gold Cleanup Medal",                           "sort-key": "08-4-2", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","gold_cleanup_medals"],        "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Gold Liberation Medal",                        "sort-key": "08-4-3", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","gold_liberation_medals"],     "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Inspired Collector",                           "sort-key": "08-5-1", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","inspired_collector"],         "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Artful Collector",                             "sort-key": "08-5-2", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","artful_collector"],           "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "House of Fun: Stylish Collector",                            "sort-key": "08-5-3", "region": "House of Fun (Blanc TV Factory)",  "category": ["08: House of Fun (Blanc TV Factory)","stylish_collector"],          "requires": "|Progressive Story Level:8|  OR |House of Fun|"},
+  {"name": "OH01: Arty is Freed!",                                       "sort-key": "09-0-1", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","transformsanity_heavy"],        "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "OH02: Traffic Control Towers: Yellow means 'Hold on...'",    "sort-key": "09-0-2", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","transformsanity_heavy"],        "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "OH03: Traffic Control Towers: Green means 'GO!'",            "sort-key": "09-0-3", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","transformsanity_heavy"],        "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "OH04: Zip is Freed!",                                        "sort-key": "09-0-4", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","transformsanity_heavy"],        "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "OH05: Onwards to the Tropical Eco-Dome!",                    "sort-key": "09-0-5", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","transformsanity_light"],        "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "OH06: Bif is Freed!",                                        "sort-key": "09-0-6", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","transformsanity_heavy"],        "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "OH07: Prof is Freed! (...except for his Pants Engine)",      "sort-key": "09-0-7", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","transformsanity_light"],        "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats Liberated",                                 "sort-key": "09-1-0", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","transformsanity_heavy"],        "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: S Rank",                                   "sort-key": "09-1-1", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","s_rank"],                       "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Bronze Environment Medal",                 "sort-key": "09-2-1", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","bronze_environment_medals"],    "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Bronze Cleanup Medal",                     "sort-key": "09-2-2", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","bronze_cleanup_medals"],        "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Bronze Liberation Medal",                  "sort-key": "09-2-3", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","bronze_liberation_medals"],     "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Silver Environment Medal",                 "sort-key": "09-3-1", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","silver_environment_medals"],    "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Silver Cleanup Medal",                     "sort-key": "09-3-2", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","silver_cleanup_medals"],        "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Silver Liberation Medal",                  "sort-key": "09-3-3", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","silver_liberation_medals"],     "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Gold Environment Medal",                   "sort-key": "09-4-1", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","gold_environment_medals"],      "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Gold Cleanup Medal",                       "sort-key": "09-4-2", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","gold_cleanup_medals"],          "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Gold Liberation Medal",                    "sort-key": "09-4-3", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","gold_liberation_medals"],       "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Inspired Collector",                       "sort-key": "09-5-1", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","inspired_collector"],           "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Artful Collector",                         "sort-key": "09-5-2", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","artful_collector"],             "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "Orbital Habitats: Stylish Collector",                        "sort-key": "09-5-3", "region": "Orbital Habitats (Prison Zoo)",    "category": ["09: Orbital Habitats (Prison Zoo)","stylish_collector"],            "requires": "|Progressive Story Level:9|  OR |Orbital Habitats|"},
+  {"name": "RY01: Train Station Takeover",                               "sort-key": "10-0-1", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","transformsanity_heavy"],          "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "RY02: Front, Toward Enemy",                                  "sort-key": "10-0-2", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","transformsanity_heavy"],          "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "RY03: Supercharge Rampage!",                                 "sort-key": "10-0-3", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","transformsanity_light"],          "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "RY04: Inkies Overboard!",                                    "sort-key": "10-0-4", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","transformsanity_heavy"],          "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "RY05: Out of the frying pan... and into the fire",           "sort-key": "10-0-5", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","transformsanity_light"],          "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "RY06: Fabricator Approach",                                  "sort-key": "10-0-6", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","transformsanity_heavy"],          "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards Liberated",                                        "sort-key": "10-1-0", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)"],                                  "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: S Rank",                                          "sort-key": "10-1-1", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","s_rank"],                         "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Bronze Environment Medal",                        "sort-key": "10-2-1", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","bronze_environment_medals"],      "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Bronze Cleanup Medal",                            "sort-key": "10-2-2", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","bronze_cleanup_medals"],          "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Bronze Liberation Medal",                         "sort-key": "10-2-3", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","bronze_liberation_medals"],       "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Silver Environment Medal",                        "sort-key": "10-3-1", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","silver_environment_medals"],      "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Silver Cleanup Medal",                            "sort-key": "10-3-2", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","silver_cleanup_medals"],          "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Silver Liberation Medal",                         "sort-key": "10-3-3", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","silver_liberation_medals"],       "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Gold Environment Medal",                          "sort-key": "10-4-1", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","gold_environment_medals"],        "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Gold Cleanup Medal",                              "sort-key": "10-4-2", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","gold_cleanup_medals"],            "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Gold Liberation Medal",                           "sort-key": "10-4-3", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","gold_liberation_medals"],         "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Inspired Collector",                              "sort-key": "10-5-1", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","inspired_collector"],             "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Artful Collector",                                "sort-key": "10-5-2", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","artful_collector"],               "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "Railyards: Stylish Collector",                               "sort-key": "10-5-3", "region": "Railyards (Inky Fabricator)",      "category": ["10: Railyards (Inky Fabricator)","stylish_collector"],              "requires": "|Progressive Story Level:10| OR |Railyards|"},
+  {"name": "RR01: Rolling Brownout (Look that up, it's an actual term)", "sort-key": "11-0-1", "region": "Rocket Range",                     "category": ["11: Rocket Range","transformsanity_heavy"],                         "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "RR02: The Calm Before The Storm",                            "sort-key": "11-0-2", "region": "Rocket Range",                     "category": ["11: Rocket Range","transformsanity_light"],                         "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "RR03: The Storm After The Calm",                             "sort-key": "11-0-3", "region": "Rocket Range",                     "category": ["11: Rocket Range","transformsanity_heavy"],                         "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "RR04: We need a rocket...",                                  "sort-key": "11-0-4", "region": "Rocket Range",                     "category": ["11: Rocket Range","transformsanity_light"],                         "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "RR05: The Rocket Is Ready For Launch!",                      "sort-key": "11-0-5", "region": "Rocket Range",                     "category": ["11: Rocket Range","transformsanity_light"],                         "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: S Rank",                                       "sort-key": "11-1-1", "region": "Rocket Range",                     "category": ["11: Rocket Range","s_rank"],                                        "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Bronze Environment Medal",                     "sort-key": "11-2-1", "region": "Rocket Range",                     "category": ["11: Rocket Range","bronze_environment_medals"],                     "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Bronze Cleanup Medal",                         "sort-key": "11-2-2", "region": "Rocket Range",                     "category": ["11: Rocket Range","bronze_cleanup_medals"],                         "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Bronze Liberation Medal",                      "sort-key": "11-2-3", "region": "Rocket Range",                     "category": ["11: Rocket Range","bronze_liberation_medals"],                      "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Silver Environment Medal",                     "sort-key": "11-3-1", "region": "Rocket Range",                     "category": ["11: Rocket Range","silver_environment_medals"],                     "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Silver Cleanup Medal",                         "sort-key": "11-3-2", "region": "Rocket Range",                     "category": ["11: Rocket Range","silver_cleanup_medals"],                         "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Silver Liberation Medal",                      "sort-key": "11-3-3", "region": "Rocket Range",                     "category": ["11: Rocket Range","silver_liberation_medals"],                      "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Gold Environment Medal",                       "sort-key": "11-4-1", "region": "Rocket Range",                     "category": ["11: Rocket Range","gold_environment_medals"],                       "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Gold Cleanup Medal",                           "sort-key": "11-4-2", "region": "Rocket Range",                     "category": ["11: Rocket Range","gold_cleanup_medals"],                           "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Gold Liberation Medal",                        "sort-key": "11-4-3", "region": "Rocket Range",                     "category": ["11: Rocket Range","gold_liberation_medals"],                        "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Inspired Collector",                           "sort-key": "11-5-1", "region": "Rocket Range",                     "category": ["11: Rocket Range","inspired_collector"],                            "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Artful Collector",                             "sort-key": "11-5-2", "region": "Rocket Range",                     "category": ["11: Rocket Range","artful_collector"],                              "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "Rocket Range: Stylish Collector",                            "sort-key": "11-5-3", "region": "Rocket Range",                     "category": ["11: Rocket Range","stylish_collector"],                             "requires": "|Progressive Story Level:11| OR |Rocket Parts:12|"},
+  {"name": "HR01: Save the Engineers!",                                  "sort-key": "12-0-1", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","transformsanity_light"],                            "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "HR02: Save the Scientists!",                                 "sort-key": "12-0-2", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","transformsanity_light"],                            "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "HR03: Save the Doctors!",                                    "sort-key": "12-0-3", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","transformsanity_light"],                            "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "HR04: The Final Showdown",                                   "sort-key": "12-0-4", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","transformsanity_light"],                            "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: S Rank",                                          "sort-key": "12-1-1", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","s_rank"],                                           "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Bronze Environment Medal",                        "sort-key": "12-2-1", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","bronze_environment_medals"],                        "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Bronze Cleanup Medal",                            "sort-key": "12-2-2", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","bronze_cleanup_medals"],                            "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Bronze Liberation Medal",                         "sort-key": "12-2-3", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","bronze_liberation_medals"],                         "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Silver Environment Medal",                        "sort-key": "12-3-1", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","silver_environment_medals"],                        "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Silver Cleanup Medal",                            "sort-key": "12-3-2", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","silver_cleanup_medals"],                            "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Silver Liberation Medal",                         "sort-key": "12-3-3", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","silver_liberation_medals"],                         "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Gold Environment Medal",                          "sort-key": "12-4-1", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","gold_environment_medals"],                          "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Gold Cleanup Medal",                              "sort-key": "12-4-2", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","gold_cleanup_medals"],                              "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Gold Liberation Medal",                           "sort-key": "12-4-3", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","gold_liberation_medals"],                           "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Inspired Collector",                              "sort-key": "12-5-1", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","inspired_collector"],                               "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Artful Collector",                                "sort-key": "12-5-2", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","artful_collector"],                                 "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"},
+  {"name": "Hypno Ray: Stylish Collector",                               "sort-key": "12-5-3", "region": "Hypno Ray",                        "category": ["12: Hypno Ray","stylish_collector"],                                "requires": "(|Progressive Story Level:12|) OR (|Rocket Parts:12| AND |Color Underground Rocket| AND |Color Energy Beam:7|)"}
 ]

@@ -1,3 +1,51 @@
+## v4.0: Check Butter: Spread it evenly!
+An issue I've felt these manuals have is that most checks get sent near the end of the levels.  
+I have implemented many new check options for the console/PC games, and touched up the DS game a little bit.  
+Shoutouts to the Metal Gear Rising and Sonic CD OSTs for carrying me through the final stretches of working on this massive update.
+
+* DEV: Rebased to latest stable ManualAP release [20260319](https://github.com/ManualForArchipelago/Manual/releases/tag/manual_stable_20260319)
+* DEV: Reformatted internal json files with my "semi-minified + heavily-aligned" style to MASSIVELY improve readability and maintainability
+* Readme: Disfigured the DS box art to fit in the preview image
+* Readme: Glazed the PS3 version of de Blob 2 and insulted every 2018 port
+* ALL: `.apworld` files are now compressed, reducing sizes from ~350kb to ~75kb
+* ALL: Moved DeathLink option to the top of the yaml next to prog balancing and accessibility
+* ALL: Added a time-wasting option to shuffle the SKIP BUTTON as an item because it's funny
+* ALL: Used `sort_key` feature to sort check lists by hand
+* ALL-ish: Added new preset yamls:
+* `Zip's Choice`: A quick and breezy preset that excludes many "hundo" checks, ideal for beginners
+* `Arty's Masterpiece`: My ideal default settings
+* `Prof's Classic`: Rough equivalent to v3 and earlier behaviour
+* `Bif's Fullsanity`: ALL THE CHECKS!
+* `Comrade Black's Little Black Book`: Beware...
+* dB1+dB2: Added a completely cosmetic yaml option to signify what version you're playing on
+* dB1+dB2: Added options to restrict *optional* Power-Up usage with collectible items
+* DS: Renamed "Musical Collector" to "Musician"
+* DS: Renamed "Rocket Parts" McGuffin to "Launch Access Codes" to distinguish it from the console game's McGuffin
+* DSi: Removed `dsi_enhanced` yaml setting in favour of more granular options
+* DSi: The Chroma Crystal can now be shuffled as shards or a permanent upgrade, rather than just as a consumable cheat
+* dB1: Massive refactor
+* dB1: Renamed "Level Complete" to "Level Complete (Bronze Medal)"
+* dB1: Renamed "Street Artist" to "Billboard Artist"
+* dB1: Renamed "Blimp Painted" to "Pilot"
+* dB1: Re-arranged check categories
+* dB2: Renamed "Railyards Liberated" to "Mutant Inky Defeated (Railyards Liberated)"
+* dB2: Still didn't add Blob Party
+* dB2: Became even more baffled by how badly the Switch port got screwed up
+Added the following checks as toggleable options:
+* dB1: Gold Medals for story levels
+* dB1: 100% Painted
+* dB1: All pre-existing awards
+* dB1: Silver Medals for story levels
+* dB1: Silver/Gold medals for bonus missions
+* dB1: 25%, 50%, 75% Painted
+* dB1: Clearing levels in Free Paint Mode
+* dB1: 20 unique checks for doing specific things in each Bonus Mission (and one for Free Paint)
+* dB1: Sector Gates (gatesanity)
+* DS: Musician, Liberator, and Chroma Camera
+* dB2: Most prior things (S Rank, Gold Medals Collector awards)
+* dB2: Bronze and Silver medals for Liberation, Environment, and Clean-Up
+* dB2: Transform Engines, with Heavy or Light modes (transformsanity, this took a lot of work)
+
 ## [v3.1: $25 Apple Polishing Cloth](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-v3.1)
 Published: 2026-01-09 @ 23:57 UTC
 

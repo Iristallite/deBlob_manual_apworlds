@@ -1,46 +1,35 @@
 {
-  "levels_shuffled":{
-    "hidden": true,
-    "yaml_option":["levels_shuffled"]
-  },
-  "levels_progressive":{
-    "hidden": true,
-    "yaml_option":["levels_progressive"]
-  },
-  "sinking_feeling":{
-    "hidden": true,
-    "yaml_option":["sinking_feeling"]
-  },
-  "traps_30fps":{
-    "hidden": true,
-    "yaml_option":["traps_30fps"]
-  },
-  "traps_restart_level":{
-    "hidden": true,
-    "yaml_option":["traps_restart_level"]
-  },
-  "traps_broken_brakes":{
-    "hidden": true,
-    "yaml_option":["traps_broken_brakes"]
-  },
-  "traps_invert_camera":{
-    "hidden": true,
-    "yaml_option":["traps_invert_camera"]
-  },
-  "traps_mute_music":{
-    "hidden": true,
-    "yaml_option":["traps_mute_music"]
-  },
-  "cheats_time_bonus":{
-    "hidden": true,
-    "yaml_option":["cheats_time_bonus"]
-  },
-  "cheats_extra_life":{
-    "hidden": true,
-    "yaml_option":["cheats_extra_life"]
-  },
-  "cheats_invulnerability":{
-    "hidden": true,
-    "yaml_option":["cheats_invulnerability"]
-  }
+  "levels_shuffled":         {"hidden": true,  "yaml_option": ["levels_shuffled"]},
+  "levels_progressive":      {"hidden": true,  "yaml_option": ["levels_progressive"]},
+  "gold_medals_main":        {"hidden": true,  "yaml_option": ["gold_medals_main"]},
+  "painting_threshold_100":  {"hidden": true,  "yaml_option": ["painting_threshold_100"]},
+  "awards_challenger":       {"hidden": true,  "yaml_option": ["awards_challenger"]},
+  "awards_speedrunner":      {"hidden": true,  "yaml_option": ["awards_speedrunner"]},
+  "awards_stylist":          {"hidden": true,  "yaml_option": ["awards_stylist"]},
+  "awards_naturalist":       {"hidden": true,  "yaml_option": ["awards_naturalist"]},
+  "awards_architect":        {"hidden": true,  "yaml_option": ["awards_architect"]},
+  "awards_billboard_artist": {"hidden": true,  "yaml_option": ["awards_billboard_artist"]},
+  "awards_transformer":      {"hidden": true,  "yaml_option": ["awards_transformer"]},
+  "awards_liberator":        {"hidden": true,  "yaml_option": ["awards_liberator"]},
+  "awards_pilot":            {"hidden": true,  "yaml_option": ["awards_pilot"]},
+  "Free Paint":              {"hidden": false, "yaml_option": ["include_free_paint"]},
+  "painting_threshold_25":   {"hidden": true,  "yaml_option": ["painting_threshold_25"]},
+  "painting_threshold_50":   {"hidden": true,  "yaml_option": ["painting_threshold_50"]},
+  "painting_threshold_75":   {"hidden": true,  "yaml_option": ["painting_threshold_75"]},
+  "silver_medals_main":      {"hidden": true,  "yaml_option": ["silver_medals_main"]},
+  "silver_medals_bonus":     {"hidden": true,  "yaml_option": ["silver_medals_bonus"]},
+  "gold_medals_bonus":       {"hidden": true,  "yaml_option": ["gold_medals_bonus"]},
+  "Miscellaneous Tasks":     {"hidden": false, "yaml_option": ["bonus_bonus_checks"]},
+  "gatesanity":              {"hidden": true,  "yaml_option": ["gatesanity"]},
+  "shuffle_paint_tanker":    {"hidden": true,  "yaml_option": ["shuffle_paint_tanker"]},
+  "shuffle_skip_button":     {"hidden": true,  "yaml_option": ["shuffle_skip_button"]},
+  "sinking_feeling":         {"hidden": true,  "yaml_option": ["sinking_feeling"]},
+  "traps_30fps":             {"hidden": true,  "yaml_option": ["traps_30fps"]},
+  "traps_restart_level":     {"hidden": true,  "yaml_option": ["traps_restart_level"]},
+  "traps_broken_brakes":     {"hidden": true,  "yaml_option": ["traps_broken_brakes"]},
+  "traps_invert_camera":     {"hidden": true,  "yaml_option": ["traps_invert_camera"]},
+  "traps_mute_music":        {"hidden": true,  "yaml_option": ["traps_mute_music"]},
+  "cheats_time_bonus":       {"hidden": true,  "yaml_option": ["cheats_time_bonus"]},
+  "cheats_extra_life":       {"hidden": true,  "yaml_option": ["cheats_extra_life"]},
+  "cheats_invulnerability":  {"hidden": true,  "yaml_option": ["cheats_invulnerability"]}
 }

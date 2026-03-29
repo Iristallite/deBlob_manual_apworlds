@@ -1,1265 +1,276 @@
 [
-  {
-    "name": "World Savior",
-    "region": "Lake Raydia",
-    "victory": true,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Last Resort: Level Complete",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Gold Medal",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Seaside Roller",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-2 (Seaside Roller)| OR |Progressive Level: 2|"
-  },
-  {
-    "name": "Last Resort: Top of the World",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-3 (Top of the World)| OR |Progressive Level: 3|"
-  },
-  {
-    "name": "Last Resort: 100% Painted",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Challenger",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Speedrunner",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Stylist",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Naturalist",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Architect",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Street Artist",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Transformer",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Liberator",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Last Resort: Blimp Painted",
-    "region": "Last Resort",
-    "victory": false,
-    "category": [
-      "01: Last Resort"
-    ],
-    "requires": "|1-1 (Last Resort)| OR |Progressive Level: 1|"
-  },
-  {
-    "name": "Uptown: Level Complete",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Gold Medal",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Ship to Ship",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-2 (Ship to Ship)| OR |Progressive Level: 5|"
-  },
-  {
-    "name": "Uptown: Leaps of Faith",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-3 (Leaps of Faith)| OR |Progressive Level: 6|"
-  },
-  {
-    "name": "Uptown: 100% Painted",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Challenger",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Speedrunner",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Stylist",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Naturalist",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Architect",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Street Artist",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Transformer",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Liberator",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Uptown: Blimp Painted",
-    "region": "Uptown",
-    "victory": false,
-    "category": [
-      "02: Uptown"
-    ],
-    "requires": "|2-1 (Uptown)| OR |Progressive Level: 4|"
-  },
-  {
-    "name": "Downtown: Level Complete",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Gold Medal",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Sizzle Race",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-2 (Sizzle Race)| OR |Progressive Level: 8|"
-  },
-  {
-    "name": "Downtown: Lost Freeway",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-3 (Lost Freeway)| OR |Progressive Level: 9|"
-  },
-  {
-    "name": "Downtown: 100% Painted",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Challenger",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Speedrunner",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Stylist",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Naturalist",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Architect",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Street Artist",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Transformer",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Liberator",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "Downtown: Blimp Painted",
-    "region": "Downtown",
-    "victory": false,
-    "category": [
-      "03: Downtown"
-    ],
-    "requires": "|3-1 (Downtown)| OR |Progressive Level: 7|"
-  },
-  {
-    "name": "The Chroma Dam: Level Complete",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: Gold Medal",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: INKT Academy",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-2 (INKT Academy)| OR |Progressive Level: 11|"
-  },
-  {
-    "name": "The Chroma Dam: Crane Fighting",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-3 (Crane Fighting)| OR |Progressive Level: 12|"
-  },
-  {
-    "name": "The Chroma Dam: 100% Painted",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: Challenger",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: Speedrunner",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: Stylist",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: Naturalist",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: Architect",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: Street Artist",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: Transformer",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: Liberator",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "The Chroma Dam: Blimp Painted",
-    "region": "The Chroma Dam",
-    "victory": false,
-    "category": [
-      "04: The Chroma Dam"
-    ],
-    "requires": "|4-1 (The Chroma Dam)| OR |Progressive Level: 10|"
-  },
-  {
-    "name": "Guggentraz Island: Level Complete",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Gold Medal",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Jetbike Blitz",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-2 (Jetbike Blitz)| OR |Progressive Level: 14|"
-  },
-  {
-    "name": "Guggentraz Island: Trainspotting",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-3 (Trainspotting)| OR |Progressive Level: 15|"
-  },
-  {
-    "name": "Guggentraz Island: 100% Painted",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Challenger",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Speedrunner",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Stylist",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Naturalist",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Architect",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Street Artist",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Transformer",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Liberator",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "Guggentraz Island: Blimp Painted",
-    "region": "Guggentraz Island",
-    "victory": false,
-    "category": [
-      "05: Guggentraz Island"
-    ],
-    "requires": "|5-1 (Guggentraz Island)| OR |Progressive Level: 13|"
-  },
-  {
-    "name": "The Docklands: Level Complete",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Gold Medal",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Miles o' Silos",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-2 (Miles o' Silos)| OR |Progressive Level: 17|"
-  },
-  {
-    "name": "The Docklands: Forgotten Forest",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-3 (Forgotten Forest)| OR |Progressive Level: 18|"
-  },
-  {
-    "name": "The Docklands: 100% Painted",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Challenger",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Speedrunner",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Stylist",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Naturalist",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Architect",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Street Artist",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Transformer",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Liberator",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "The Docklands: Blimp Painted",
-    "region": "The Docklands",
-    "victory": false,
-    "category": [
-      "06: The Docklands"
-    ],
-    "requires": "|6-1 (The Docklands)| OR |Progressive Level: 16|"
-  },
-  {
-    "name": "Hanging Gardens: Level Complete",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Gold Medal",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Billboard-o-rama",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-2 (Billboard-o-rama)| OR |Progressive Level: 20|"
-  },
-  {
-    "name": "Hanging Gardens: Inky Canyon",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-3 (Inky Canyon)| OR |Progressive Level: 21|"
-  },
-  {
-    "name": "Hanging Gardens: 100% Painted",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Challenger",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Speedrunner",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Stylist",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Naturalist",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Architect",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Street Artist",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Transformer",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Liberator",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Hanging Gardens: Blimp Painted",
-    "region": "Hanging Gardens",
-    "victory": false,
-    "category": [
-      "07: Hanging Gardens"
-    ],
-    "requires": "|7-1 (Hanging Gardens)| OR |Progressive Level: 19|"
-  },
-  {
-    "name": "Chroma City Fun Park: Level Complete",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Gold Medal",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Factory Run",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-2 (Factory Run)| OR |Progressive Level: 23|"
-  },
-  {
-    "name": "Chroma City Fun Park: Blob Smash",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-3 (Blob Smash)| OR |Progressive Level: 24|"
-  },
-  {
-    "name": "Chroma City Fun Park: 100% Painted",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Challenger",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Speedrunner",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Stylist",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Naturalist",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Architect",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Street Artist",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Transformer",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Liberator",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Chroma City Fun Park: Blimp Painted",
-    "region": "Chroma City Fun Park",
-    "victory": false,
-    "category": [
-      "08: Chroma City Fun Park"
-    ],
-    "requires": "|8-1 (Chroma City Fun Park)| OR |Progressive Level: 22|"
-  },
-  {
-    "name": "Ministry of Ink: Level Complete",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Gold Medal",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Hill Climb",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-2 (Hill Climb)| OR |Progressive Level: 26|"
-  },
-  {
-    "name": "Ministry of Ink: Deep Down",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-3 (Deep Down)| OR |Progressive Level: 27|"
-  },
-  {
-    "name": "Ministry of Ink: 100% Painted",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Challenger",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Speedrunner",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Stylist",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Naturalist",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Architect",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Street Artist",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Transformer",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Liberator",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Ministry of Ink: Blimp Painted",
-    "region": "Ministry of Ink",
-    "victory": false,
-    "category": [
-      "09: Ministry of Ink"
-    ],
-    "requires": "|9-1 (Ministry of Ink)| OR |Progressive Level: 25|"
-  },
-  {
-    "name": "Lake Raydia: Gold Medal",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Lake Raydia: Sinking Feeling",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia",
-      "levels_shuffled",
-      "sinking_feeling"
-    ],
-    "requires": "|10-2 (Sinking Feeling)|"
-  },
-  {
-    "name": "Lake Raydia: Tower of Power",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia",
-      "levels_shuffled"
-    ],
-    "requires": "|10-3 (Tower of Power)|"
-  },
-  {
-    "name": "Lake Raydia: 100% Painted",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Lake Raydia: Challenger",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Lake Raydia: Speedrunner",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Lake Raydia: Stylist",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Lake Raydia: Naturalist",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Lake Raydia: Architect",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Lake Raydia: Street Artist",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Lake Raydia: Transformer",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Lake Raydia: Liberator",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  },
-  {
-    "name": "Lake Raydia: Blimp Painted",
-    "region": "Lake Raydia",
-    "victory": false,
-    "category": [
-      "10: Lake Raydia"
-    ],
-    "requires": "|Comrade Black's Blueprints:9| OR |Progressive Level: 28|"
-  }
-]
+  {"name": "World Savior","sort-key": "10-1-1-0","region": "Lake Raydia","victory": true,"category": ["10-1: Lake Raydia"], "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "LR01: Beachside Village --> Hotel Streets",           "sort-key": "01-1-0-1", "region": "Last Resort",          "category": ["1-1: Last Resort","gatesanity"],                       "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "LR02: Hotel Streets --> Midtown",                     "sort-key": "01-1-0-2", "region": "Last Resort",          "category": ["1-1: Last Resort","gatesanity"],                       "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "LR03: Midtown --> Resort Overlook",                   "sort-key": "01-1-0-3", "region": "Last Resort",          "category": ["1-1: Last Resort","gatesanity"],                       "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Level Complete (Bronze Medal)",          "sort-key": "01-1-1-0", "region": "Last Resort",          "category": ["1-1: Last Resort"],                                    "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Silver Medal",                           "sort-key": "01-1-1-1", "region": "Last Resort",          "category": ["1-1: Last Resort","silver_medals_main"],               "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Gold Medal",                             "sort-key": "01-1-1-2", "region": "Last Resort",          "category": ["1-1: Last Resort","gold_medals_main"],                 "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Free Paint Complete",                    "sort-key": "01-1-1-3", "region": "Last Resort",          "category": ["1-1: Last Resort","Free Paint"],                       "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: 25% Painted",                            "sort-key": "01-1-2-1", "region": "Last Resort",          "category": ["1-1: Last Resort","painting_threshold_25"],            "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: 50% Painted",                            "sort-key": "01-1-2-2", "region": "Last Resort",          "category": ["1-1: Last Resort","painting_threshold_50"],            "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: 75% Painted",                            "sort-key": "01-1-2-3", "region": "Last Resort",          "category": ["1-1: Last Resort","painting_threshold_75"],            "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: 100% Painted",                           "sort-key": "01-1-2-4", "region": "Last Resort",          "category": ["1-1: Last Resort","painting_threshold_100"],           "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Challenger",                             "sort-key": "01-1-3-1", "region": "Last Resort",          "category": ["1-1: Last Resort","awards_challenger"],                "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Speedrunner",                            "sort-key": "01-1-3-2", "region": "Last Resort",          "category": ["1-1: Last Resort","awards_speedrunner"],               "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Stylist",                                "sort-key": "01-1-3-3", "region": "Last Resort",          "category": ["1-1: Last Resort","awards_stylist"],                   "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Naturalist",                             "sort-key": "01-1-3-4", "region": "Last Resort",          "category": ["1-1: Last Resort","awards_naturalist"],                "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Architect",                              "sort-key": "01-1-3-5", "region": "Last Resort",          "category": ["1-1: Last Resort","awards_architect"],                 "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Billboard Artist",                       "sort-key": "01-1-3-6", "region": "Last Resort",          "category": ["1-1: Last Resort","awards_billboard_artist"],          "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Transformer",                            "sort-key": "01-1-3-7", "region": "Last Resort",          "category": ["1-1: Last Resort","awards_transformer"],               "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Liberator",                              "sort-key": "01-1-3-8", "region": "Last Resort",          "category": ["1-1: Last Resort","awards_liberator"],                 "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Last Resort: Pilot",                                  "sort-key": "01-1-3-9", "region": "Last Resort",          "category": ["1-1: Last Resort","awards_pilot"],                     "requires": "|Progressive Level:1| OR |1-1 (Last Resort)|"},
+  {"name": "Seaside Roller: Level Complete (Bronze Medal)",       "sort-key": "01-2-0-0", "region": "Last Resort",          "category": ["1-2: Seaside Roller"],                                 "requires": "|Progressive Level:2| OR |1-2 (Seaside Roller)|"},
+  {"name": "Seaside Roller: Silver Medal",                        "sort-key": "01-2-0-1", "region": "Last Resort",          "category": ["1-2: Seaside Roller","silver_medals_bonus"],           "requires": "|Progressive Level:2| OR |1-2 (Seaside Roller)|"},
+  {"name": "Seaside Roller: Gold Medal",                          "sort-key": "01-2-0-2", "region": "Last Resort",          "category": ["1-2: Seaside Roller","gold_medals_bonus"],             "requires": "|Progressive Level:2| OR |1-2 (Seaside Roller)|"},
+  {"name": "Seaside Roller: Paint the grounded INKT symbol",      "sort-key": "01-2-1-0", "region": "Last Resort",          "category": ["1-2: Seaside Roller","Miscellaneous Tasks"],           "requires": "|Progressive Level:2| OR |1-2 (Seaside Roller)|"},
+  {"name": "Top of the World: Level Complete (Bronze Medal)",     "sort-key": "01-3-0-0", "region": "Last Resort",          "category": ["1-3: Top of the World"],                               "requires": "|Progressive Level:3| OR |1-3 (Top of the World)|"},
+  {"name": "Top of the World: Silver Medal",                      "sort-key": "01-3-0-1", "region": "Last Resort",          "category": ["1-3: Top of the World","silver_medals_bonus"],         "requires": "|Progressive Level:3| OR |1-3 (Top of the World)|"},
+  {"name": "Top of the World: Gold Medal",                        "sort-key": "01-3-0-2", "region": "Last Resort",          "category": ["1-3: Top of the World","gold_medals_bonus"],           "requires": "|Progressive Level:3| OR |1-3 (Top of the World)|"},
+  {"name": "Top of the World: Paint the pipes by the exit",       "sort-key": "01-3-1-0", "region": "Last Resort",          "category": ["1-3: Top of the World","Miscellaneous Tasks"],         "requires": "|Progressive Level:3| OR |1-3 (Top of the World)|"},
+  {"name": "UT01: Waterfront --> Uptown Bridge",                  "sort-key": "02-1-0-1", "region": "Uptown",               "category": ["02: Uptown","gatesanity"],                             "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "UT02: Uptown Bridge --> Nerve Center",                "sort-key": "02-1-0-2", "region": "Uptown",               "category": ["02: Uptown","gatesanity"],                             "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Level Complete (Bronze Medal)",               "sort-key": "02-1-1-0", "region": "Uptown",               "category": ["02: Uptown"],                                          "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Silver Medal",                                "sort-key": "02-1-1-1", "region": "Uptown",               "category": ["02: Uptown","silver_medals_main"],                     "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Gold Medal",                                  "sort-key": "02-1-1-2", "region": "Uptown",               "category": ["02: Uptown","gold_medals_main"],                       "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Free Paint Complete",                         "sort-key": "02-1-1-3", "region": "Uptown",               "category": ["02: Uptown","Free Paint"],                             "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: 25% Painted",                                 "sort-key": "02-1-2-1", "region": "Uptown",               "category": ["02: Uptown","painting_threshold_25"],                  "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: 50% Painted",                                 "sort-key": "02-1-2-2", "region": "Uptown",               "category": ["02: Uptown","painting_threshold_50"],                  "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: 75% Painted",                                 "sort-key": "02-1-2-3", "region": "Uptown",               "category": ["02: Uptown","painting_threshold_75"],                  "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: 100% Painted",                                "sort-key": "02-1-2-4", "region": "Uptown",               "category": ["02: Uptown","painting_threshold_100"],                 "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Challenger",                                  "sort-key": "02-1-3-1", "region": "Uptown",               "category": ["02: Uptown","awards_challenger"],                      "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Speedrunner",                                 "sort-key": "02-1-3-2", "region": "Uptown",               "category": ["02: Uptown","awards_speedrunner"],                     "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Stylist",                                     "sort-key": "02-1-3-3", "region": "Uptown",               "category": ["02: Uptown","awards_stylist"],                         "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Naturalist",                                  "sort-key": "02-1-3-4", "region": "Uptown",               "category": ["02: Uptown","awards_naturalist"],                      "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Architect",                                   "sort-key": "02-1-3-5", "region": "Uptown",               "category": ["02: Uptown","awards_architect"],                       "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Billboard Artist",                            "sort-key": "02-1-3-6", "region": "Uptown",               "category": ["02: Uptown","awards_billboard_artist"],                "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Transformer",                                 "sort-key": "02-1-3-7", "region": "Uptown",               "category": ["02: Uptown","awards_transformer"],                     "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Liberator",                                   "sort-key": "02-1-3-8", "region": "Uptown",               "category": ["02: Uptown","awards_liberator"],                       "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Uptown: Pilot",                                       "sort-key": "02-1-3-9", "region": "Uptown",               "category": ["02: Uptown","awards_pilot"],                           "requires": "|Progressive Level:4| OR |2-1 (Uptown)|"},
+  {"name": "Ship to Ship: Level Complete (Bronze Medal)",         "sort-key": "02-2-0-0", "region": "Uptown",               "category": ["2-2: Ship to Ship"],                                   "requires": "|Progressive Level:5| OR |2-2 (Ship to Ship)|"},
+  {"name": "Ship to Ship: Silver Medal",                          "sort-key": "02-2-0-1", "region": "Uptown",               "category": ["2-2: Ship to Ship","silver_medals_bonus"],             "requires": "|Progressive Level:5| OR |2-2 (Ship to Ship)|"},
+  {"name": "Ship to Ship: Gold Medal",                            "sort-key": "02-2-0-2", "region": "Uptown",               "category": ["2-2: Ship to Ship","gold_medals_bonus"],               "requires": "|Progressive Level:5| OR |2-2 (Ship to Ship)|"},
+  {"name": "Ship to Ship: Paint the flower bed",                  "sort-key": "02-2-1-0", "region": "Uptown",               "category": ["2-2: Ship to Ship","Miscellaneous Tasks"],             "requires": "|Progressive Level:5| OR |2-2 (Ship to Ship)|"},
+  {"name": "Leaps of Faith: Level Complete (Bronze Medal)",       "sort-key": "02-3-0-0", "region": "Uptown",               "category": ["2-3: Leaps of Faith"],                                 "requires": "|Progressive Level:6| OR |2-3 (Leaps of Faith)|"},
+  {"name": "Leaps of Faith: Silver Medal",                        "sort-key": "02-3-0-1", "region": "Uptown",               "category": ["2-3: Leaps of Faith","silver_medals_bonus"],           "requires": "|Progressive Level:6| OR |2-3 (Leaps of Faith)|"},
+  {"name": "Leaps of Faith: Gold Medal",                          "sort-key": "02-3-0-2", "region": "Uptown",               "category": ["2-3: Leaps of Faith","gold_medals_bonus"],             "requires": "|Progressive Level:6| OR |2-3 (Leaps of Faith)|"},
+  {"name": "Leaps of Faith: Paint the 2 trees by the exit",       "sort-key": "02-3-1-0", "region": "Uptown",               "category": ["2-3: Leaps of Faith","Miscellaneous Tasks"],           "requires": "|Progressive Level:6| OR |2-3 (Leaps of Faith)|"},
+  {"name": "DT01: Highway --> Slums",                             "sort-key": "03-1-0-1", "region": "Downtown",             "category": ["03: Downtown","gatesanity"],                           "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "DT02: Slums --> Skatepark",                           "sort-key": "03-1-0-2", "region": "Downtown",             "category": ["03: Downtown","gatesanity"],                           "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Level Complete (Bronze Medal)",             "sort-key": "03-1-1-0", "region": "Downtown",             "category": ["03: Downtown"],                                        "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Silver Medal",                              "sort-key": "03-1-1-1", "region": "Downtown",             "category": ["03: Downtown","silver_medals_main"],                   "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Gold Medal",                                "sort-key": "03-1-1-2", "region": "Downtown",             "category": ["03: Downtown","gold_medals_main"],                     "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Free Paint Complete",                       "sort-key": "03-1-1-3", "region": "Downtown",             "category": ["03: Downtown","Free Paint"],                           "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: 25% Painted",                               "sort-key": "03-1-2-1", "region": "Downtown",             "category": ["03: Downtown","painting_threshold_25"],                "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: 50% Painted",                               "sort-key": "03-1-2-2", "region": "Downtown",             "category": ["03: Downtown","painting_threshold_50"],                "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: 75% Painted",                               "sort-key": "03-1-2-3", "region": "Downtown",             "category": ["03: Downtown","painting_threshold_75"],                "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: 100% Painted",                              "sort-key": "03-1-2-4", "region": "Downtown",             "category": ["03: Downtown","painting_threshold_100"],               "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Challenger",                                "sort-key": "03-1-3-1", "region": "Downtown",             "category": ["03: Downtown","awards_challenger"],                    "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Speedrunner",                               "sort-key": "03-1-3-2", "region": "Downtown",             "category": ["03: Downtown","awards_speedrunner"],                   "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Stylist",                                   "sort-key": "03-1-3-3", "region": "Downtown",             "category": ["03: Downtown","awards_stylist"],                       "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Naturalist",                                "sort-key": "03-1-3-4", "region": "Downtown",             "category": ["03: Downtown","awards_naturalist"],                    "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Architect",                                 "sort-key": "03-1-3-5", "region": "Downtown",             "category": ["03: Downtown","awards_architect"],                     "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Billboard Artist",                          "sort-key": "03-1-3-6", "region": "Downtown",             "category": ["03: Downtown","awards_billboard_artist"],              "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Transformer",                               "sort-key": "03-1-3-7", "region": "Downtown",             "category": ["03: Downtown","awards_transformer"],                   "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Liberator",                                 "sort-key": "03-1-3-8", "region": "Downtown",             "category": ["03: Downtown","awards_liberator"],                     "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Downtown: Pilot",                                     "sort-key": "03-1-3-9", "region": "Downtown",             "category": ["03: Downtown","awards_pilot"],                         "requires": "|Progressive Level:7| OR |3-1 (Downtown)|"},
+  {"name": "Sizzle Race: Level Complete (Bronze Medal)",          "sort-key": "03-2-0-0", "region": "Downtown",             "category": ["3-2: Sizzle Race"],                                    "requires": "|Progressive Level:8| OR |3-2 (Sizzle Race)|"},
+  {"name": "Sizzle Race: Silver Medal",                           "sort-key": "03-2-0-1", "region": "Downtown",             "category": ["3-2: Sizzle Race","silver_medals_bonus"],              "requires": "|Progressive Level:8| OR |3-2 (Sizzle Race)|"},
+  {"name": "Sizzle Race: Gold Medal",                             "sort-key": "03-2-0-2", "region": "Downtown",             "category": ["3-2: Sizzle Race","gold_medals_bonus"],                "requires": "|Progressive Level:8| OR |3-2 (Sizzle Race)|"},
+  {"name": "Sizzle Race: Paint the Inky statue",                  "sort-key": "03-2-1-0", "region": "Downtown",             "category": ["3-2: Sizzle Race","Miscellaneous Tasks"],              "requires": "|Progressive Level:8| OR |3-2 (Sizzle Race)|"},
+  {"name": "Lost Freeway: Level Complete (Bronze Medal)",         "sort-key": "03-3-0-0", "region": "Downtown",             "category": ["3-3: Lost Freeway"],                                   "requires": "|Progressive Level:9| OR |3-3 (Lost Freeway)|"},
+  {"name": "Lost Freeway: Silver Medal",                          "sort-key": "03-3-0-1", "region": "Downtown",             "category": ["3-3: Lost Freeway","silver_medals_bonus"],             "requires": "|Progressive Level:9| OR |3-3 (Lost Freeway)|"},
+  {"name": "Lost Freeway: Gold Medal",                            "sort-key": "03-3-0-2", "region": "Downtown",             "category": ["3-3: Lost Freeway","gold_medals_bonus"],               "requires": "|Progressive Level:9| OR |3-3 (Lost Freeway)|"},
+  {"name": "Lost Freeway: Die in the ink",                        "sort-key": "03-3-1-0", "region": "Downtown",             "category": ["3-3: Lost Freeway","Miscellaneous Tasks"],             "requires": "|Progressive Level:9| OR |3-3 (Lost Freeway)|"},
+  {"name": "CD01: Dam Outskirts --> Dam Approach",                "sort-key": "04-1-0-1", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","gatesanity"],                    "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "CD02: Dam Approach --> Chroma Dam",                   "sort-key": "04-1-0-2", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","gatesanity"],                    "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Level Complete (Bronze Medal)",       "sort-key": "04-1-1-0", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam"],                                 "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Silver Medal",                        "sort-key": "04-1-1-1", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","silver_medals_main"],            "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Gold Medal",                          "sort-key": "04-1-1-2", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","gold_medals_main"],              "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Free Paint Complete",                 "sort-key": "04-1-1-3", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","Free Paint"],                    "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: 25% Painted",                         "sort-key": "04-1-2-1", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","painting_threshold_25"],         "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: 50% Painted",                         "sort-key": "04-1-2-2", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","painting_threshold_50"],         "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: 75% Painted",                         "sort-key": "04-1-2-3", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","painting_threshold_75"],         "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: 100% Painted",                        "sort-key": "04-1-2-4", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","painting_threshold_100"],        "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Challenger",                          "sort-key": "04-1-3-1", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","awards_challenger"],             "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Speedrunner",                         "sort-key": "04-1-3-2", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","awards_speedrunner"],            "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Stylist",                             "sort-key": "04-1-3-3", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","awards_stylist"],                "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Naturalist",                          "sort-key": "04-1-3-4", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","awards_naturalist"],             "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Architect",                           "sort-key": "04-1-3-5", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","awards_architect"],              "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Billboard Artist",                    "sort-key": "04-1-3-6", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","awards_billboard_artist"],       "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Transformer",                         "sort-key": "04-1-3-7", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","awards_transformer"],            "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Liberator",                           "sort-key": "04-1-3-8", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","awards_liberator"],              "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "The Chroma Dam: Pilot",                               "sort-key": "04-1-3-9", "region": "The Chroma Dam",       "category": ["4-1: The Chroma Dam","awards_pilot"],                  "requires": "|Progressive Level:10| OR |4-1 (The Chroma Dam)|"},
+  {"name": "INKT Academy: Level Complete (Bronze Medal)",         "sort-key": "04-2-0-0", "region": "The Chroma Dam",       "category": ["4-2: INKT Academy"],                                   "requires": "|Progressive Level:11| OR |4-2 (INKT Academy)|"},
+  {"name": "INKT Academy: Silver Medal",                          "sort-key": "04-2-0-1", "region": "The Chroma Dam",       "category": ["4-2: INKT Academy","silver_medals_bonus"],             "requires": "|Progressive Level:11| OR |4-2 (INKT Academy)|"},
+  {"name": "INKT Academy: Gold Medal",                            "sort-key": "04-2-0-2", "region": "The Chroma Dam",       "category": ["4-2: INKT Academy","gold_medals_bonus"],               "requires": "|Progressive Level:11| OR |4-2 (INKT Academy)|"},
+  {"name": "INKT Academy: Paint all 10 Inky statues",             "sort-key": "04-2-1-0", "region": "The Chroma Dam",       "category": ["4-2: INKT Academy","Miscellaneous Tasks"],             "requires": "|Progressive Level:11| OR |4-2 (INKT Academy)|"},
+  {"name": "Crane Fighting: Level Complete (Bronze Medal)",       "sort-key": "04-3-0-0", "region": "The Chroma Dam",       "category": ["4-3: Crane Fighting"],                                 "requires": "|Progressive Level:12| OR |4-3 (Crane Fighting)|"},
+  {"name": "Crane Fighting: Silver Medal",                        "sort-key": "04-3-0-1", "region": "The Chroma Dam",       "category": ["4-3: Crane Fighting","silver_medals_bonus"],           "requires": "|Progressive Level:12| OR |4-3 (Crane Fighting)|"},
+  {"name": "Crane Fighting: Gold Medal",                          "sort-key": "04-3-0-2", "region": "The Chroma Dam",       "category": ["4-3: Crane Fighting","gold_medals_bonus"],             "requires": "|Progressive Level:12| OR |4-3 (Crane Fighting)|"},
+  {"name": "Crane Fighting: Paint the ship",                      "sort-key": "04-3-1-0", "region": "The Chroma Dam",       "category": ["4-3: Crane Fighting","Miscellaneous Tasks"],           "requires": "|Progressive Level:12| OR |4-3 (Crane Fighting)|"},
+  {"name": "GI01: Island Underlook --> Grand Central Station",    "sort-key": "05-1-0-1", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","gatesanity"],                 "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "GI02: Grand Central Station --> Guggentraz Island",   "sort-key": "05-1-0-2", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","gatesanity"],                 "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Level Complete (Bronze Medal)",    "sort-key": "05-1-1-0", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island"],                              "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Silver Medal",                     "sort-key": "05-1-1-1", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","silver_medals_main"],         "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Gold Medal",                       "sort-key": "05-1-1-2", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","gold_medals_main"],           "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Free Paint Complete",              "sort-key": "05-1-1-3", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island"],                              "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: 25% Painted",                      "sort-key": "05-1-2-1", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","painting_threshold_25"],      "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: 50% Painted",                      "sort-key": "05-1-2-2", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","painting_threshold_50"],      "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: 75% Painted",                      "sort-key": "05-1-2-3", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","painting_threshold_75"],      "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: 100% Painted",                     "sort-key": "05-1-2-4", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","painting_threshold_100"],     "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Challenger",                       "sort-key": "05-1-3-1", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","awards_challenger"],          "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Speedrunner",                      "sort-key": "05-1-3-2", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","awards_speedrunner"],         "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Stylist",                          "sort-key": "05-1-3-3", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","awards_stylist"],             "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Naturalist",                       "sort-key": "05-1-3-4", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","awards_naturalist"],          "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Architect",                        "sort-key": "05-1-3-5", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","awards_architect"],           "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Billboard Artist",                 "sort-key": "05-1-3-6", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","awards_billboard_artist"],    "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Transformer",                      "sort-key": "05-1-3-7", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","awards_transformer"],         "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Liberator",                        "sort-key": "05-1-3-8", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","awards_liberator"],           "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Guggentraz Island: Pilot",                            "sort-key": "05-1-3-9", "region": "Guggentraz Island",    "category": ["5-1: Guggentraz Island","awards_pilot"],               "requires": "|Progressive Level:13| OR |5-1 (Guggentraz Island)|"},
+  {"name": "Jetbike Blitz: Level Complete (Bronze Medal)",        "sort-key": "05-2-0-0", "region": "Guggentraz Island",    "category": ["5-2: Jetbike Blitz"],                                  "requires": "|Progressive Level:14| OR |5-2 (Jetbike Blitz)|"},
+  {"name": "Jetbike Blitz: Silver Medal",                         "sort-key": "05-2-0-1", "region": "Guggentraz Island",    "category": ["5-2: Jetbike Blitz","silver_medals_bonus"],            "requires": "|Progressive Level:14| OR |5-2 (Jetbike Blitz)|"},
+  {"name": "Jetbike Blitz: Gold Medal",                           "sort-key": "05-2-0-2", "region": "Guggentraz Island",    "category": ["5-2: Jetbike Blitz","gold_medals_bonus"],              "requires": "|Progressive Level:14| OR |5-2 (Jetbike Blitz)|"},
+  {"name": "Jetbike Blitz: Sink the northwest river's barrels",   "sort-key": "05-2-1-0", "region": "Guggentraz Island",    "category": ["5-2: Jetbike Blitz","Miscellaneous Tasks"],            "requires": "|Progressive Level:14| OR |5-2 (Jetbike Blitz)|"},
+  {"name": "Trainspotting: Level Complete (Bronze Medal)",        "sort-key": "05-3-0-0", "region": "Guggentraz Island",    "category": ["5-3: Trainspotting"],                                  "requires": "|Progressive Level:15| OR |5-3 (Trainspotting)|"},
+  {"name": "Trainspotting: Silver Medal",                         "sort-key": "05-3-0-1", "region": "Guggentraz Island",    "category": ["5-3: Trainspotting","silver_medals_bonus"],            "requires": "|Progressive Level:15| OR |5-3 (Trainspotting)|"},
+  {"name": "Trainspotting: Gold Medal",                           "sort-key": "05-3-0-2", "region": "Guggentraz Island",    "category": ["5-3: Trainspotting","gold_medals_bonus"],              "requires": "|Progressive Level:15| OR |5-3 (Trainspotting)|"},
+  {"name": "Trainspotting: Paint the billboard at the end",       "sort-key": "05-3-1-0", "region": "Guggentraz Island",    "category": ["5-3: Trainspotting","Miscellaneous Tasks"],            "requires": "|Progressive Level:15| OR |5-3 (Trainspotting)|"},
+  {"name": "DL01: Portside Ridge --> Docking Bay",                "sort-key": "06-1-0-1", "region": "The Docklands",        "category": ["6-1: The Docklands","gatesanity"],                     "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "DL02: Docking Bay --> Shipping Center",               "sort-key": "06-1-0-2", "region": "The Docklands",        "category": ["6-1: The Docklands","gatesanity"],                     "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "DL03: Shipping Center --> Docktown",                  "sort-key": "06-1-0-3", "region": "The Docklands",        "category": ["6-1: The Docklands","gatesanity"],                     "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "DL04: Docktown --> Docklands Lighthouse",             "sort-key": "06-1-0-4", "region": "The Docklands",        "category": ["6-1: The Docklands","gatesanity"],                     "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Level Complete (Bronze Medal)",        "sort-key": "06-1-1-0", "region": "The Docklands",        "category": ["6-1: The Docklands"],                                  "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Silver Medal",                         "sort-key": "06-1-1-1", "region": "The Docklands",        "category": ["6-1: The Docklands","silver_medals_main"],             "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Gold Medal",                           "sort-key": "06-1-1-2", "region": "The Docklands",        "category": ["6-1: The Docklands","gold_medals_main"],               "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Free Paint Complete",                  "sort-key": "06-1-1-3", "region": "The Docklands",        "category": ["6-1: The Docklands","Free Paint"],                     "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: 25% Painted",                          "sort-key": "06-1-2-1", "region": "The Docklands",        "category": ["6-1: The Docklands","painting_threshold_25"],          "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: 50% Painted",                          "sort-key": "06-1-2-2", "region": "The Docklands",        "category": ["6-1: The Docklands","painting_threshold_50"],          "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: 75% Painted",                          "sort-key": "06-1-2-3", "region": "The Docklands",        "category": ["6-1: The Docklands","painting_threshold_75"],          "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: 100% Painted",                         "sort-key": "06-1-2-4", "region": "The Docklands",        "category": ["6-1: The Docklands","painting_threshold_100"],         "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Challenger",                           "sort-key": "06-1-3-1", "region": "The Docklands",        "category": ["6-1: The Docklands","awards_challenger"],              "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Speedrunner",                          "sort-key": "06-1-3-2", "region": "The Docklands",        "category": ["6-1: The Docklands","awards_speedrunner"],             "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Stylist",                              "sort-key": "06-1-3-3", "region": "The Docklands",        "category": ["6-1: The Docklands","awards_stylist"],                 "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Naturalist",                           "sort-key": "06-1-3-4", "region": "The Docklands",        "category": ["6-1: The Docklands","awards_naturalist"],              "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Architect",                            "sort-key": "06-1-3-5", "region": "The Docklands",        "category": ["6-1: The Docklands","awards_architect"],               "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Billboard Artist",                     "sort-key": "06-1-3-6", "region": "The Docklands",        "category": ["6-1: The Docklands","awards_billboard_artist"],        "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Transformer",                          "sort-key": "06-1-3-7", "region": "The Docklands",        "category": ["6-1: The Docklands","awards_transformer"],             "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Liberator",                            "sort-key": "06-1-3-8", "region": "The Docklands",        "category": ["6-1: The Docklands","awards_liberator"],               "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "The Docklands: Pilot",                                "sort-key": "06-1-3-9", "region": "The Docklands",        "category": ["6-1: The Docklands","awards_pilot"],                   "requires": "|Progressive Level:16| OR |6-1 (The Docklands)|"},
+  {"name": "Miles o' Silos: Level Complete (Bronze Medal)",       "sort-key": "06-2-0-0", "region": "The Docklands",        "category": ["6-2: Miles o' Silos"],                                 "requires": "|Progressive Level:17| OR |6-2 (Miles o' Silos)|"},
+  {"name": "Miles o' Silos: Silver Medal",                        "sort-key": "06-2-0-1", "region": "The Docklands",        "category": ["6-2: Miles o' Silos","silver_medals_bonus"],           "requires": "|Progressive Level:17| OR |6-2 (Miles o' Silos)|"},
+  {"name": "Miles o' Silos: Gold Medal",                          "sort-key": "06-2-0-2", "region": "The Docklands",        "category": ["6-2: Miles o' Silos","gold_medals_bonus"],             "requires": "|Progressive Level:17| OR |6-2 (Miles o' Silos)|"},
+  {"name": "Miles o' Silos: Touch the deadly submarine",          "sort-key": "06-2-1-0", "region": "The Docklands",        "category": ["6-2: Miles o' Silos","Miscellaneous Tasks"],           "requires": "|Progressive Level:17| OR |6-2 (Miles o' Silos)|"},
+  {"name": "Forgotten Forest: Level Complete (Bronze Medal)",     "sort-key": "06-3-0-0", "region": "The Docklands",        "category": ["6-3: Forgotten Forest"],                               "requires": "|Progressive Level:18| OR |6-3 (Forgotten Forest)|"},
+  {"name": "Forgotten Forest: Silver Medal",                      "sort-key": "06-3-0-1", "region": "The Docklands",        "category": ["6-3: Forgotten Forest","silver_medals_bonus"],         "requires": "|Progressive Level:18| OR |6-3 (Forgotten Forest)|"},
+  {"name": "Forgotten Forest: Gold Medal",                        "sort-key": "06-3-0-2", "region": "The Docklands",        "category": ["6-3: Forgotten Forest","gold_medals_bonus"],           "requires": "|Progressive Level:18| OR |6-3 (Forgotten Forest)|"},
+  {"name": "Forgotten Forest: Get killed by a leechbot",          "sort-key": "06-3-1-0", "region": "The Docklands",        "category": ["6-3: Forgotten Forest","Miscellaneous Tasks"],         "requires": "|Progressive Level:18| OR |6-3 (Forgotten Forest)|"},
+  {"name": "HG01: Overpass --> Industrial District",              "sort-key": "07-1-0-1", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","gatesanity"],                   "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "HG02: Industrial District --> Hanging Gardens",       "sort-key": "07-1-0-2", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","gatesanity"],                   "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Level Complete (Bronze Medal)",      "sort-key": "07-1-1-0", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens"],                                "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Silver Medal",                       "sort-key": "07-1-1-1", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","silver_medals_main"],           "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Gold Medal",                         "sort-key": "07-1-1-2", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","gold_medals_main"],             "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Free Paint Complete",                "sort-key": "07-1-1-3", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","Free Paint"],                   "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: 25% Painted",                        "sort-key": "07-1-2-1", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","painting_threshold_25"],        "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: 50% Painted",                        "sort-key": "07-1-2-2", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","painting_threshold_50"],        "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: 75% Painted",                        "sort-key": "07-1-2-3", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","painting_threshold_75"],        "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: 100% Painted",                       "sort-key": "07-1-2-4", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","painting_threshold_100"],       "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Challenger",                         "sort-key": "07-1-3-1", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","awards_challenger"],            "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Speedrunner",                        "sort-key": "07-1-3-2", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","awards_speedrunner"],           "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Stylist",                            "sort-key": "07-1-3-3", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","awards_stylist"],               "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Naturalist",                         "sort-key": "07-1-3-4", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","awards_naturalist"],            "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Architect",                          "sort-key": "07-1-3-5", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","awards_architect"],             "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Billboard Artist",                   "sort-key": "07-1-3-6", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","awards_billboard_artist"],      "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Transformer",                        "sort-key": "07-1-3-7", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","awards_transformer"],           "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Liberator",                          "sort-key": "07-1-3-8", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","awards_liberator"],             "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Hanging Gardens: Pilot",                              "sort-key": "07-1-3-9", "region": "Hanging Gardens",      "category": ["7-1: Hanging Gardens","awards_pilot"],                 "requires": "|Progressive Level:19| OR |7-1 (Hanging Gardens)|"},
+  {"name": "Billboard-o-rama: Level Complete (Bronze Medal)",     "sort-key": "07-2-0-0", "region": "Hanging Gardens",      "category": ["7-2: Billboard-o-rama"],                               "requires": "|Progressive Level:20| OR |7-2 (Billboard-o-rama)|"},
+  {"name": "Billboard-o-rama: Silver Medal",                      "sort-key": "07-2-0-1", "region": "Hanging Gardens",      "category": ["7-2: Billboard-o-rama","silver_medals_bonus"],         "requires": "|Progressive Level:20| OR |7-2 (Billboard-o-rama)|"},
+  {"name": "Billboard-o-rama: Gold Medal",                        "sort-key": "07-2-0-2", "region": "Hanging Gardens",      "category": ["7-2: Billboard-o-rama","gold_medals_bonus"],           "requires": "|Progressive Level:20| OR |7-2 (Billboard-o-rama)|"},
+  {"name": "Billboard-o-rama: Paint all 21 trees",                "sort-key": "07-2-1-0", "region": "Hanging Gardens",      "category": ["7-2: Billboard-o-rama","Miscellaneous Tasks"],         "requires": "|Progressive Level:20| OR |7-2 (Billboard-o-rama)|"},
+  {"name": "Inky Canyon: Level Complete (Bronze Medal)",          "sort-key": "07-3-0-0", "region": "Hanging Gardens",      "category": ["7-3: Inky Canyon"],                                    "requires": "|Progressive Level:21| OR |7-3 (Inky Canyon)|"},
+  {"name": "Inky Canyon: Silver Medal",                           "sort-key": "07-3-0-1", "region": "Hanging Gardens",      "category": ["7-3: Inky Canyon","silver_medals_bonus"],              "requires": "|Progressive Level:21| OR |7-3 (Inky Canyon)|"},
+  {"name": "Inky Canyon: Gold Medal",                             "sort-key": "07-3-0-2", "region": "Hanging Gardens",      "category": ["7-3: Inky Canyon","gold_medals_bonus"],                "requires": "|Progressive Level:21| OR |7-3 (Inky Canyon)|"},
+  {"name": "Inky Canyon: Paint the submerged crates",             "sort-key": "07-3-1-0", "region": "Hanging Gardens",      "category": ["7-3: Inky Canyon","Miscellaneous Tasks"],              "requires": "|Progressive Level:21| OR |7-3 (Inky Canyon)|"},
+  {"name": "FP01: Park Entrance --> Flooded Park",                "sort-key": "08-1-0-1", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","gatesanity"],              "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "FP02: Flooded Park --> Main Attraction",              "sort-key": "08-1-0-2", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","gatesanity"],              "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Level Complete (Bronze Medal)", "sort-key": "08-1-1-0", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park"],                           "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Silver Medal",                  "sort-key": "08-1-1-1", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","silver_medals_main"],      "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Gold Medal",                    "sort-key": "08-1-1-2", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","gold_medals_main"],        "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Free Paint Complete",           "sort-key": "08-1-1-3", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","Free Paint"],              "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: 25% Painted",                   "sort-key": "08-1-2-1", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","painting_threshold_25"],   "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: 50% Painted",                   "sort-key": "08-1-2-2", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","painting_threshold_50"],   "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: 75% Painted",                   "sort-key": "08-1-2-3", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","painting_threshold_75"],   "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: 100% Painted",                  "sort-key": "08-1-2-4", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","painting_threshold_100"],  "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Challenger",                    "sort-key": "08-1-3-1", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","awards_challenger"],       "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Speedrunner",                   "sort-key": "08-1-3-2", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","awards_speedrunner"],      "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Stylist",                       "sort-key": "08-1-3-3", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","awards_stylist"],          "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Naturalist",                    "sort-key": "08-1-3-4", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","awards_naturalist"],       "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Architect",                     "sort-key": "08-1-3-5", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","awards_architect"],        "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Billboard Artist",              "sort-key": "08-1-3-6", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","awards_billboard_artist"], "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Transformer",                   "sort-key": "08-1-3-7", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","awards_transformer"],      "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Liberator",                     "sort-key": "08-1-3-8", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","awards_liberator"],        "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Chroma City Fun Park: Pilot",                         "sort-key": "08-1-3-9", "region": "Chroma City Fun Park", "category": ["8-1: Chroma City Fun Park","awards_pilot"],            "requires": "|Progressive Level:22| OR |8-1 (Chroma City Fun Park)|"},
+  {"name": "Factory Run: Level Complete (Bronze Medal)",          "sort-key": "08-2-0-0", "region": "Chroma City Fun Park", "category": ["8-2: Factory Run"],                                    "requires": "|Progressive Level:23| OR |8-2 (Factory Run)|"},
+  {"name": "Factory Run: Silver Medal",                           "sort-key": "08-2-0-1", "region": "Chroma City Fun Park", "category": ["8-2: Factory Run","silver_medals_bonus"],              "requires": "|Progressive Level:23| OR |8-2 (Factory Run)|"},
+  {"name": "Factory Run: Gold Medal",                             "sort-key": "08-2-0-2", "region": "Chroma City Fun Park", "category": ["8-2: Factory Run","gold_medals_bonus"],                "requires": "|Progressive Level:23| OR |8-2 (Factory Run)|"},
+  {"name": "Factory Run: Reach the goal without Paintbots",       "sort-key": "08-2-1-0", "region": "Chroma City Fun Park", "category": ["8-2: Factory Run","Miscellaneous Tasks"],              "requires": "|Progressive Level:23| OR |8-2 (Factory Run)|"},
+  {"name": "Blob Smash: Level Complete (Bronze Medal)",           "sort-key": "08-3-0-0", "region": "Chroma City Fun Park", "category": ["8-3: Blob Smash"],                                     "requires": "|Progressive Level:24| OR |8-3 (Blob Smash)|"},
+  {"name": "Blob Smash: Silver Medal",                            "sort-key": "08-3-0-1", "region": "Chroma City Fun Park", "category": ["8-3: Blob Smash","silver_medals_bonus"],               "requires": "|Progressive Level:24| OR |8-3 (Blob Smash)|"},
+  {"name": "Blob Smash: Gold Medal",                              "sort-key": "08-3-0-2", "region": "Chroma City Fun Park", "category": ["8-3: Blob Smash","gold_medals_bonus"],                 "requires": "|Progressive Level:24| OR |8-3 (Blob Smash)|"},
+  {"name": "Blob Smash: Touch the killplane at the back",         "sort-key": "08-3-1-0", "region": "Chroma City Fun Park", "category": ["8-3: Blob Smash","Miscellaneous Tasks"],               "requires": "|Progressive Level:24| OR |8-3 (Blob Smash)|"},
+  {"name": "MI01: Frontlines --> INKT Mega-Reactor",              "sort-key": "09-1-0-1", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","gatesanity"],                   "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "MI02: INKT Mega-Reactor --> Vehicle Bay",             "sort-key": "09-1-0-2", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","gatesanity"],                   "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "MI03: Vehicle Bay --> INKT HQ (Point of No Return)",  "sort-key": "09-1-0-3", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","gatesanity"],                   "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Level Complete (Bronze Medal)",      "sort-key": "09-1-1-0", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink"],                                "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Silver Medal",                       "sort-key": "09-1-1-1", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","silver_medals_main"],           "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Gold Medal",                         "sort-key": "09-1-1-2", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","gold_medals_main"],             "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Free Paint Complete",                "sort-key": "09-1-1-3", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","Free Paint"],                   "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: 25% Painted",                        "sort-key": "09-1-2-1", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","painting_threshold_25"],        "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: 50% Painted",                        "sort-key": "09-1-2-2", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","painting_threshold_50"],        "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: 75% Painted",                        "sort-key": "09-1-2-3", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","painting_threshold_75"],        "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: 100% Painted",                       "sort-key": "09-1-2-4", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","painting_threshold_100"],       "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Challenger",                         "sort-key": "09-1-3-1", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","awards_challenger"],            "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Speedrunner",                        "sort-key": "09-1-3-2", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","awards_speedrunner"],           "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Stylist",                            "sort-key": "09-1-3-3", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","awards_stylist"],               "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Naturalist",                         "sort-key": "09-1-3-4", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","awards_naturalist"],            "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Architect",                          "sort-key": "09-1-3-5", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","awards_architect"],             "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Billboard Artist",                   "sort-key": "09-1-3-6", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","awards_billboard_artist"],      "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Transformer",                        "sort-key": "09-1-3-7", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","awards_transformer"],           "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Liberator",                          "sort-key": "09-1-3-8", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","awards_liberator"],             "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Ministry of Ink: Pilot",                              "sort-key": "09-1-3-9", "region": "Ministry of Ink",      "category": ["9-1: Ministry of Ink","awards_pilot"],                 "requires": "|Progressive Level:25| OR |9-1 (Ministry of Ink)|"},
+  {"name": "Hill Climb: Level Complete (Bronze Medal)",           "sort-key": "09-2-0-0", "region": "Ministry of Ink",      "category": ["9-2: Hill Climb"],                                     "requires": "|Progressive Level:26| OR |9-2 (Hill Climb)|"},
+  {"name": "Hill Climb: Silver Medal",                            "sort-key": "09-2-0-1", "region": "Ministry of Ink",      "category": ["9-2: Hill Climb","silver_medals_bonus"],               "requires": "|Progressive Level:26| OR |9-2 (Hill Climb)|"},
+  {"name": "Hill Climb: Gold Medal",                              "sort-key": "09-2-0-2", "region": "Ministry of Ink",      "category": ["9-2: Hill Climb","gold_medals_bonus"],                 "requires": "|Progressive Level:26| OR |9-2 (Hill Climb)|"},
+  {"name": "Hill Climb: Use all 3 Wind Cannons",                  "sort-key": "09-2-1-0", "region": "Ministry of Ink",      "category": ["9-2: Hill Climb","Miscellaneous Tasks"],               "requires": "|Progressive Level:26| OR |9-2 (Hill Climb)|"},
+  {"name": "Deep Down: Level Complete (Bronze Medal)",            "sort-key": "09-3-0-0", "region": "Ministry of Ink",      "category": ["9-3: Deep Down"],                                      "requires": "|Progressive Level:27| OR |9-3 (Deep Down)|"},
+  {"name": "Deep Down: Silver Medal",                             "sort-key": "09-3-0-1", "region": "Ministry of Ink",      "category": ["9-3: Deep Down","silver_medals_bonus"],                "requires": "|Progressive Level:27| OR |9-3 (Deep Down)|"},
+  {"name": "Deep Down: Gold Medal",                               "sort-key": "09-3-0-2", "region": "Ministry of Ink",      "category": ["9-3: Deep Down","gold_medals_bonus"],                  "requires": "|Progressive Level:27| OR |9-3 (Deep Down)|"},
+  {"name": "Deep Down: Paint the picnic area below the start",    "sort-key": "09-3-1-0", "region": "Ministry of Ink",      "category": ["9-3: Deep Down","Miscellaneous Tasks"],                "requires": "|Progressive Level:27| OR |9-3 (Deep Down)|"},
+  {"name": "RS01: Liftoff --> Engine Bay",                             "sort-key": "10-1-0-1", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","gatesanity"],                      "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "RS02: Engine Bay --> Comrade Black",                       "sort-key": "10-1-0-1", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","gatesanity"],                      "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Silver Medal",                                "sort-key": "10-1-1-1", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","silver_medals_main"],              "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Gold Medal",                                  "sort-key": "10-1-1-2", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","gold_medals_main"],                "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: 25% Painted",                                 "sort-key": "10-1-2-1", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","painting_threshold_25"],           "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: 50% Painted",                                 "sort-key": "10-1-2-2", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","painting_threshold_50"],           "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: 75% Painted",                                 "sort-key": "10-1-2-3", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","painting_threshold_75"],           "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: 100% Painted",                                "sort-key": "10-1-2-4", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","painting_threshold_100"],          "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Challenger",                                  "sort-key": "10-1-3-1", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","awards_challenger"],               "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Speedrunner",                                 "sort-key": "10-1-3-2", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","awards_speedrunner"],              "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Stylist",                                     "sort-key": "10-1-3-3", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","awards_stylist"],                  "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Naturalist",                                  "sort-key": "10-1-3-4", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","awards_naturalist"],               "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Architect",                                   "sort-key": "10-1-3-5", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","awards_architect"],                "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Billboard Artist",                            "sort-key": "10-1-3-6", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","awards_billboard_artist"],         "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Transformer",                                 "sort-key": "10-1-3-7", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","awards_transformer"],              "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Liberator",                                   "sort-key": "10-1-3-8", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","awards_liberator"],                "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Lake Raydia: Pilot",                                       "sort-key": "10-1-3-9", "region": "Lake Raydia",          "category": ["10-1: Lake Raydia","awards_pilot"],                    "requires": "|Progressive Level:28| OR |Comrade Black's Blueprints:9|"},
+  {"name": "Sinking Feeling: Level Complete (Bronze Medal)",           "sort-key": "10-2-0-0", "region": "Lake Raydia",          "category": ["10-2: Sinking Feeling","levels_shuffled","sinking_feeling"],                       "requires": "|10-2 (Sinking Feeling)|"},
+  {"name": "Sinking Feeling: Silver Medal",                            "sort-key": "10-2-0-1", "region": "Lake Raydia",          "category": ["10-2: Sinking Feeling","levels_shuffled","sinking_feeling","silver_medals_bonus"], "requires": "|10-2 (Sinking Feeling)|"},
+  {"name": "Sinking Feeling: Gold Medal",                              "sort-key": "10-2-0-2", "region": "Lake Raydia",          "category": ["10-2: Sinking Feeling","levels_shuffled","sinking_feeling","gold_medals_bonus"],   "requires": "|10-2 (Sinking Feeling)|"},
+  {"name": "Sinking Feeling: This level blows! Here's a free check.",  "sort-key": "10-2-1-0", "region": "Lake Raydia",          "category": ["10-2: Sinking Feeling","levels_shuffled","sinking_feeling","Miscellaneous Tasks"], "requires": "|10-2 (Sinking Feeling)|"},
+  {"name": "Tower of Power: Level Complete (Bronze Medal)",            "sort-key": "10-3-0-0", "region": "Lake Raydia",          "category": ["10-3: Tower of Power","levels_shuffled"],                                          "requires": "|10-3 (Tower of Power)|"},
+  {"name": "Tower of Power: Silver Medal",                             "sort-key": "10-3-0-1", "region": "Lake Raydia",          "category": ["10-3: Tower of Power","levels_shuffled","silver_medals_bonus"],                    "requires": "|10-3 (Tower of Power)|"},
+  {"name": "Tower of Power: Gold Medal",                               "sort-key": "10-3-0-2", "region": "Lake Raydia",          "category": ["10-3: Tower of Power","levels_shuffled","gold_medals_bonus"],                      "requires": "|10-3 (Tower of Power)|"},
+  {"name": "Tower of Power: Reach the goal in under 38 seconds",       "sort-key": "10-3-1-0", "region": "Lake Raydia",          "category": ["10-3: Tower of Power","levels_shuffled","Miscellaneous Tasks"],                    "requires": "|10-3 (Tower of Power)|"},
+  {"name": "Free Paint: Lose all 10 lives",                            "sort-key": "00-0-0-0", "region": "Chroma City",          "category": ["Free Paint","Miscellaneous Tasks"]}
+]     

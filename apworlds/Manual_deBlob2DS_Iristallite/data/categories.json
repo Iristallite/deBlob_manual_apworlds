@@ -1,26 +1,13 @@
 {
-  "levels_shuffled":{
-    "hidden": true,
-    "yaml_option":["levels_shuffled"]
-  },
-  "levels_progressive":{
-    "hidden": true,
-    "yaml_option":["levels_progressive"]
-  },
-  "dsi_enhanced":{
-    "hidden": true,
-    "yaml_option":["dsi_enhanced"]
-  },
-  "cheats_chroma_crystal":{
-    "hidden": true,
-    "yaml_option":["cheats_chroma_crystal"]
-  },
-  "traps_256x192":{
-    "hidden": true,
-    "yaml_option":["traps_256x192"]
-  },
-  "traps_restart_level":{
-    "hidden": true,
-    "yaml_option":["traps_restart_level"]
-  }
+  "levels_shuffled":           {"hidden": true,"yaml_option": ["levels_shuffled"]},
+  "levels_progressive":        {"hidden": true,"yaml_option": ["levels_progressive"]},
+  "shuffle_skip_button":       {"hidden": true,"yaml_option": ["shuffle_skip_button"]},
+  "musician":                  {"hidden": true,"yaml_option": ["musician"]},
+  "liberator":                 {"hidden": true,"yaml_option": ["liberator"]},
+  "chroma_camera":             {"hidden": true,"yaml_option": ["chroma_camera"]},
+  "chroma_crystal_base":       {"hidden": true,"yaml_option": ["chroma_crystal_base"]},
+  "chroma_crystal_shards":     {"hidden": true,"yaml_option": ["chroma_crystal_shards"]},
+  "chroma_crystal_consumable": {"hidden": true,"yaml_option": ["chroma_crystal_consumable"]},
+  "traps_256x192":             {"hidden": true,"yaml_option": ["traps_256x192"]},
+  "traps_restart_level":       {"hidden": true,"yaml_option": ["traps_restart_level"]}
 }

@@ -1,9 +1,20 @@
 name: Player{number}
-description: Default Manual_de Blob 1_Iristallite template
+description: Default "base" preset for Iris's de Blob 1 manual
+# "Arty's Masterpiece" preset is the dev's recommendation, balancing mid-level and completionist checks.
+# "Zip's Choice" is a quick-ish yaml that excludes a lot of "completionist" checks.
+# It's optimized for long (6-8hr) sync games.
+# "Prof's Classic" preset is a rough equivalent to v3 and earlier behaviour.
+# Most checks will be sent when you're near the end of the level.
+# "Bif's Fullsanity" may not be as extreme as "fullsanity" in other games,
+# but it has a healthy amount of mid-level and late-level checks
+# Every check is enabled, and the Paint Tanker is shuffled
+# "Comrade Black's Little Black Book" preset is equivalent to Bif's preset, but enables traps and cheats...
 game: Manual_de Blob 1_Iristallite
 Manual_de Blob 1_Iristallite:
-  accessibility: full
   progression_balancing: 50
+  accessibility: full
+  death_link: false
+  game_platform: steam
   ## Level unlocks can be either shuffled or progressive.
   # levels_shuffled: true
   # levels_progressive: false
@@ -16,13 +27,47 @@ Manual_de Blob 1_Iristallite:
     # This mode is recommended if you wish to integrate a standard playthrough of de Blob into an Archipelago multiworld.
     # This option is recommended if you cannot use a 100% save file,
     # or if you want to experience the natural level progression.
-    # *Unfortunately this mode excludes 10-2 (Sinking Feeling) and 10-3 (Tower of Power)
+    # *Unfortunately(?) this mode excludes 10-2 (Sinking Feeling) and 10-3 (Tower of Power)
   levels_shuffled: true
   levels_progressive: false
+  ## Granular check control
+  gold_medals_main: true
+  painting_threshold_100: true
+  awards_challenger: true # "Challenges"
+  awards_speedrunner: true # "Time"
+  awards_stylist: true # "Styles"
+  awards_naturalist: true # "Trees"
+  awards_architect: true # "Landmarks"
+  awards_billboard_artist: true # "Billboards"
+  awards_transformer: true # "Transforms"
+  awards_liberator: true # "Raydians"
+  awards_pilot: true # "Blimp"
+  # Mid-level checks
+  # painting_threshold_XX add checks for 25%, 50%, 75%, 100% painted respectively
+  # silver/gold_medals_(main/bonus) add checks for silver and gold medals respectively to main missions (X-1) and bonus missions (X-2/X-3) respectively
+  painting_threshold_25: false
+  painting_threshold_50: false
+  painting_threshold_75: false
+  silver_medals_main: false
+  silver_medals_bonus: false
+  gold_medals_bonus: false
+  # Adds a few (20-21) checks for doing miscellaneous things in the bonus missions (X-2/X-3). DeathLink users beware of the last one...
+  bonus_bonus_checks: false
+  # Yes, and you call it gatesanity despite the fact it only adds 24 checks
+  # More serious explanation: Adds checks for opening Sector Gates. Most levels have two gates, a few have 3, and Docklands, which has 4 gates, is an outlier adn should not be counted
+  gatesanity: false
+  # You can shuffle the ability to use the Paint Tanker (the only power-up).
+  # If this is true, you can only use the Paint Tanker once you receive it as an item.
+  # If this is false, you can always use the Paint Tanker.
+  shuffle_paint_tanker: false
+  # This option is a huge waste of time and is only here because I thought it was funny. Do NOT use in sync multis (This game's kinda too long for most syncs anyway)
+  shuffle_skip_button: false
   # 10-2 (Sinking Feeling) has incredibly strict button-mash timing and is flat-out impossible at 30fps (handheld Switch)...
   # ...so you can fire it into a black hole with this option.
-  # Set this to false if you're playing on a handheld Switch/Lite, can't mash fast enough/set up turbo.
+  # Set this to false if you're playing on a handheld Switch/Lite, can't mash fast enough/set up turbo, etc.
   sinking_feeling: true
+  # Adds a check for clearing each level in Free Paint mode, for a total of 9 extra checks
+  include_free_paint: false
   ## Traps! Oh no!
   # Low-framerate trap; set your FPS limit to 30 for the next 5 minutes.
   # Disable if you don't have a way to change the FPS limit mid-game (ie: gamescope on Linux or Special K on Windows).
@@ -45,4 +90,3 @@ Manual_de Blob 1_Iristallite:
   cheats_extra_life: false      # 1 1 2 2 | A A Y Y | X X T T
   # UNLIMITED POWER!!! *30 seconds only.
   cheats_invulnerability: false # 1 1 1 1 | A A A A | X X X X
-  death_link: false

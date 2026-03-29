@@ -1,310 +1,44 @@
 [
-  {
-    "count": "1",
-    "name": "Paradise Island",
-    "category": [
-      "(6) Level",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Downtown",
-    "category": [
-      "(6) Level",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Blanctown",
-    "category": [
-      "(6) Level",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "The Senate",
-    "category": [
-      "(6) Level",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "State College",
-    "category": [
-      "(6) Level",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Soda Falls",
-    "category": [
-      "(6) Level",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Hydro Station",
-    "category": [
-      "(6) Level",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "House of Fun",
-    "category": [
-      "(6) Level",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Orbital Habitats",
-    "category": [
-      "(6) Level",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Railyards",
-    "category": [
-      "(6) Level",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": "16",
-    "name": "Rocket Parts",
-    "category": [
-      "(0) McGuffin",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Color Underground Rocket",
-    "category": [
-      "(0) McGuffin"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": "10",
-    "name": "Color Energy Beam",
-    "category": [
-      "(0) McGuffin",
-      "levels_shuffled"
-    ],
-    "progression": true
-  },
-  {
-    "count": "12",
-    "name": "Progressive Story Level",
-    "category": [
-      "(5) Level",
-      "levels_progressive"
-    ],
-    "progression": true
-  },
-  {
-    "count": "4",
-    "name": "Life Upgrade",
-    "category": [
-      "(5) Upgrade"
-    ],
-    "progression": true
-  },
-  {
-    "count": "5",
-    "name": "Size Upgrade",
-    "category": [
-      "(5) Upgrade"
-    ],
-    "progression": true
-  },
-  {
-    "count": "3",
-    "name": "Pinky Upgrade",
-    "category": [
-      "(5) Upgrade"
-    ],
-    "progression": true
-  },
-  {
-    "count": "4",
-    "name": "Armor Upgrade",
-    "category": [
-      "(5) Upgrade"
-    ],
-    "progression": true
-  },
-  {
-    "count": "3",
-    "name": "Charge Upgrade",
-    "category": [
-      "(5) Upgrade"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Pinky",
-    "category": [
-      "(5) Upgrade",
-      "add_pinky"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Extra Pinky 1",
-    "category": [
-      "(5) Upgrade",
-      "extra_pinky_1"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Extra Pinky 2",
-    "category": [
-      "(5) Upgrade",
-      "extra_pinky_2"
-    ],
-    "progression": true
-  },
-  {
-    "count": "1",
-    "name": "Extra Pinky 3",
-    "category": [
-      "(5) Upgrade",
-      "extra_pinky_3"
-    ],
-    "progression": true
-  },
-  {
-    "count": "3",
-    "name": "High-Performance Ink (30fps cap)",
-    "category": [
-      "(2) Trap",
-      "traps_30fps"
-    ],
-    "trap": true
-  },
-  {
-    "count": "1",
-    "name": "Restart Checkpoint",
-    "category": [
-      "(3) Diabolical Trap",
-      "traps_restart_checkpoint"
-    ],
-    "trap": true
-  },
-  {
-    "count": 1,
-    "name": "Restart Level",
-    "category": [
-      "(3) Diabolical Trap",
-      "traps_restart_level"
-    ],
-    "trap": true
-  },
-  {
-    "count": "3",
-    "name": "Broken Brakes",
-    "category": [
-      "(2) Trap",
-      "traps_broken_brakes"
-    ],
-    "trap": true
-  },
-  {
-    "count": "6",
-    "name": "Invert Camera",
-    "category": [
-      "(2) Trap",
-      "traps_invert_camera"
-    ],
-    "trap": true
-  },
-  {
-    "count": "3",
-    "name": "Pinky Short-Circuit",
-    "category": [
-      "(2) Trap",
-      "traps_zap_pinky"
-    ],
-    "trap": true
-  },
-  {
-    "count": "2",
-    "name": "Free Lossless Ink Codec (Mute Music)",
-    "category": [
-      "(3) Diabolical Trap",
-      "traps_mute_music"
-    ],
-    "trap": true
-  },
-  {
-    "count": "5",
-    "name": "Time Bonus",
-    "category": [
-      "(4) Cheat",
-      "cheats_time_bonus"
-    ],
-    "filler": true
-  },
-  {
-    "count": "4",
-    "name": "Extra Life",
-    "category": [
-      "(4) Cheat",
-      "cheats_extra_life"
-    ],
-    "useful": true
-  },
-  {
-    "count": "4",
-    "name": "Armor Refill",
-    "category": [
-      "(4) Cheat",
-      "cheats_armor_refill"
-    ],
-    "useful": true
-  },
-  {
-    "count": "6",
-    "name": "Chroma Crystal",
-    "category": [
-      "(4) Cheat",
-      "cheats_chroma_crystal"
-    ],
-    "useful": true
-  },
-  {
-    "count": "3",
-    "name": "Big Color Atom",
-    "category": [
-      "(1) Filler"
-    ],
-    "filler": true
-  }
+  {"count": "12", "name": "Progressive Story Level",              "sort-key": "story-00",  "category": ["(6) Level","levels_progressive"],                 "progression": true},
+  {"count": "1",  "name": "Paradise Island",                      "sort-key": "story-01",  "category": ["(6) Level","levels_shuffled"],                    "progression": true},
+  {"count": "1",  "name": "Downtown",                             "sort-key": "story-02",  "category": ["(6) Level","levels_shuffled"],                    "progression": true},
+  {"count": "1",  "name": "Blanctown",                            "sort-key": "story-03",  "category": ["(6) Level","levels_shuffled"],                    "progression": true},
+  {"count": "1",  "name": "The Senate",                           "sort-key": "story-04",  "category": ["(6) Level","levels_shuffled"],                    "progression": true},
+  {"count": "1",  "name": "State College",                        "sort-key": "story-05",  "category": ["(6) Level","levels_shuffled"],                    "progression": true},
+  {"count": "1",  "name": "Soda Falls",                           "sort-key": "story-06",  "category": ["(6) Level","levels_shuffled"],                    "progression": true},
+  {"count": "1",  "name": "Hydro Station",                        "sort-key": "story-07",  "category": ["(6) Level","levels_shuffled"],                    "progression": true},
+  {"count": "1",  "name": "House of Fun",                         "sort-key": "story-08",  "category": ["(6) Level","levels_shuffled"],                    "progression": true},
+  {"count": "1",  "name": "Orbital Habitats",                     "sort-key": "story-09",  "category": ["(6) Level","levels_shuffled"],                    "progression": true},
+  {"count": "1",  "name": "Railyards",                            "sort-key": "story-10",  "category": ["(6) Level","levels_shuffled"],                    "progression": true},
+  {"count": "16", "name": "Rocket Parts",                         "sort-key": "mg-0",      "category": ["(0) McGuffin","levels_shuffled"],                 "progression": true},
+  {"count": "10", "name": "Color Energy Beam",                    "sort-key": "mg-1",      "category": ["(0) McGuffin","levels_shuffled"],                 "progression": true},
+  {"count": "1",  "name": "Color Underground Rocket",             "sort-key": "mg-2",      "category": ["(0) McGuffin"],                                   "progression_skip_balancing": true},
+  {"count": "1",  "name": "Skip Button",                          "sort-key": "power-0",   "category": ["(1) Power-Up","shuffle_skip_button"],             "progression": true},
+  {"count": "1",  "name": "Supercharge",                          "sort-key": "power-1",   "category": ["(1) Power-Up","shuffle_supercharge"],             "progression": true},
+  {"count": "1",  "name": "Rainbow",                              "sort-key": "power-2",   "category": ["(1) Power-Up","shuffle_rainbow"],                 "progression": true},
+  {"count": "1",  "name": "Haz-Mat",                              "sort-key": "power-3",   "category": ["(1) Power-Up","shuffle_haz_mat"],                 "progression": true},
+  {"count": "1",  "name": "Wrecking Ball",                        "sort-key": "power-4",   "category": ["(1) Power-Up","shuffle_wrecking_ball"],           "progression": true},
+  {"count": "1",  "name": "Graviton",                             "sort-key": "power-5",   "category": ["(1) Power-Up","shuffle_graviton"],                "progression": true},
+  {"count": "1",  "name": "Regen",                                "sort-key": "power-6",   "category": ["(1) Power-Up","shuffle_regen"],                   "progression": true},
+  {"count": "4",  "name": "Life Upgrade",                         "sort-key": "upgrade-1", "category": ["(5) Upgrade"],                                    "progression": true},
+  {"count": "5",  "name": "Size Upgrade",                         "sort-key": "upgrade-2", "category": ["(5) Upgrade"],                                    "progression": true},
+  {"count": "3",  "name": "Pinky Upgrade",                        "sort-key": "upgrade-3", "category": ["(5) Upgrade"],                                    "progression": true},
+  {"count": "4",  "name": "Armor Upgrade",                        "sort-key": "upgrade-4", "category": ["(5) Upgrade"],                                    "progression": true},
+  {"count": "3",  "name": "Charge Upgrade",                       "sort-key": "upgrade-5", "category": ["(5) Upgrade"],                                    "progression": true},
+  {"count": "1",  "name": "Pinky",                                "sort-key": "pinky-0",   "category": ["(1) Power-Up","add_pinky"],                        "progression": true},
+  {"count": "1",  "name": "Extra Pinky 1",                        "sort-key": "pinky-1",   "category": ["(1) Power-Up","extra_pinky_1"],                    "progression": true},
+  {"count": "1",  "name": "Extra Pinky 2",                        "sort-key": "pinky-2",   "category": ["(1) Power-Up","extra_pinky_2"],                    "progression": true},
+  {"count": "1",  "name": "Extra Pinky 3",                        "sort-key": "pinky-3",   "category": ["(1) Power-Up","extra_pinky_3"],                    "progression": true},
+  {"count": "1",  "name": "Restart Checkpoint",                   "sort-key": "dtrap-1",   "category": ["(3) Diabolical Trap","traps_restart_checkpoint"], "trap": true},
+  {"count": "1",  "name": "Restart Level",                        "sort-key": "dtrap-2",   "category": ["(3) Diabolical Trap","traps_restart_level"],      "trap": true},
+  {"count": "2",  "name": "Free Lossless Ink Codec (Mute Music)", "sort-key": "dtrap-3",   "category": ["(3) Diabolical Trap","traps_mute_music"],         "trap": true},
+  {"count": "3",  "name": "Broken Brakes",                        "sort-key": "trap-1",    "category": ["(2) Trap","traps_broken_brakes"],                 "trap": true},
+  {"count": "6",  "name": "Invert Camera",                        "sort-key": "trap-2",    "category": ["(2) Trap","traps_invert_camera"],                 "trap": true},
+  {"count": "3",  "name": "Pinky Short-Circuit",                  "sort-key": "trap-3",    "category": ["(2) Trap","traps_zap_pinky"],                     "trap": true},
+  {"count": "3",  "name": "High-Performance Ink (30fps cap)",     "sort-key": "trap-4",    "category": ["(2) Trap","traps_30fps"],                         "trap": true},
+  {"count": "5",  "name": "Time Bonus",                           "sort-key": "cheat-1",   "category": ["(4) Cheat","cheats_time_bonus"],                  "filler": true},
+  {"count": "4",  "name": "Extra Life",                           "sort-key": "cheat-2",   "category": ["(4) Cheat","cheats_extra_life"],                  "useful": true},
+  {"count": "4",  "name": "Armor Refill",                         "sort-key": "cheat-3",   "category": ["(4) Cheat","cheats_armor_refill"],                "useful": true},
+  {"count": "6",  "name": "Chroma Crystal",                       "sort-key": "cheat-4",   "category": ["(4) Cheat","cheats_chroma_crystal"],              "useful": true},
+  {"count": "3",  "name": "Big Color Atom", "filler": true}
 ]
