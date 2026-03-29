@@ -1,4 +1,5 @@
-## v4.0: Check Butter: Spread it evenly!
+## [v4.0: Check Butter - Spread it evenly!](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-v4.0)
+Published: 2026-03-29 @ 23:10 UTC  
 An issue I've felt these manuals have is that most checks get sent near the end of the levels.  
 I have implemented many new check options for the console/PC games, and touched up the DS game a little bit.  
 Shoutouts to the Metal Gear Rising and Sonic CD OSTs for carrying me through the final stretches of working on this massive update.
