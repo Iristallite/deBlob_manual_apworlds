@@ -6,5 +6,5 @@
   "War Factory":   {"connects_to": [],"requires": "|4-1 (Hostile Takeover)| OR |4-2 (The Puppet Master)| OR |4-3 (Production Line Blues)| OR |4-4 (Factory Fight)| OR |4-5 (Problem Solver)| OR |Progressive Level:16|"},
   "Pipeline":      {"connects_to": [],"requires": "|5-1 (Pipe Dream)| OR |5-2 (Raydian Revolution)| OR |5-3 (Pipeline Plummet)| OR |5-4 (Piping Hot)| OR |5-5 (Underground Updraft)| OR |Progressive Level:21|"},
   "Volcano Lair":  {"connects_to": [],"requires": "|6-1 (Evil Lair Exposure)| OR |6-2 (Circuit Breaker)| OR |6-3 (Raydian Rescue)| OR |6-4 (Rocket Racer)| OR |6-5 (INKT Theme Park)| OR |Progressive Level:26|"},
-  "Launch Pad":    {"connects_to": [],"requires": "|Rocket Parts:30| OR |Progressive Level:31|"}
+  "Launch Pad":    {"connects_to": [],"requires": "|Launch Access Codes:30| OR |Progressive Level:31|"}
 }
