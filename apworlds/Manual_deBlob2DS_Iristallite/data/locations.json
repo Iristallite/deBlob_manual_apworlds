@@ -1,5 +1,4 @@
 [
-  {"name": "7-1: The Final Showdown - de Blot defeated",    "sort-key": "7-1-0", "region": "Launch Pad",    "category": ["World 7: Launch Pad"],                    "requires": "|Launch Access Codes:30|        OR |Progressive Level:31|", "victory": "true"},
   {"name": "1-1: Basic Beats - Level Complete",             "sort-key": "1-1-1", "region": "Secret Lab",    "category": ["World 1: Secret Lab"],                    "requires": "|1-1 (Basic Beats)|             OR |Progressive Level:1|"},
   {"name": "1-1: Basic Beats - Musician",                   "sort-key": "1-1-2", "region": "Secret Lab",    "category": ["World 1: Secret Lab","musician"],         "requires": "|1-1 (Basic Beats)|             OR |Progressive Level:1|"},
   {"name": "1-1: Basic Beats - Liberator",                  "sort-key": "1-1-3", "region": "Secret Lab",    "category": ["World 1: Secret Lab","liberator"],        "requires": "|1-1 (Basic Beats)|             OR |Progressive Level:1|"},
@@ -104,5 +103,6 @@
   {"name": "6-4: Rocket Racer - Liberator",                 "sort-key": "6-4-3", "region": "Volcano Lair",  "category": ["World 6: Volcano Lair","liberator"],      "requires": "|6-4 (Rocket Racer)|            OR |Progressive Level:29|"},
   {"name": "6-5: INKT Theme Park - Level Complete",         "sort-key": "6-5-1", "region": "Volcano Lair",  "category": ["World 6: Volcano Lair"],                  "requires": "|6-5 (INKT Theme Park)|         OR |Progressive Level:30|"},
   {"name": "6-5: INKT Theme Park - Musician",               "sort-key": "6-5-2", "region": "Volcano Lair",  "category": ["World 6: Volcano Lair","musician"],       "requires": "|6-5 (INKT Theme Park)|         OR |Progressive Level:30|"},
-  {"name": "6-5: INKT Theme Park - Liberator",              "sort-key": "6-5-3", "region": "Volcano Lair",  "category": ["World 6: Volcano Lair","liberator"],      "requires": "|6-5 (INKT Theme Park)|         OR |Progressive Level:30|"}
+  {"name": "6-5: INKT Theme Park - Liberator",              "sort-key": "6-5-3", "region": "Volcano Lair",  "category": ["World 6: Volcano Lair","liberator"],      "requires": "|6-5 (INKT Theme Park)|         OR |Progressive Level:30|"},
+  {"name": "7-1: The Final Showdown - de Blot defeated",    "sort-key": "7-1-0", "region": "Launch Pad",    "category": ["World 7: Launch Pad"],                    "requires": "|Launch Access Codes:30|        OR |Progressive Level:31|", "victory": "true"}
 ]
