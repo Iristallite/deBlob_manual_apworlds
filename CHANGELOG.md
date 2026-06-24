@@ -1,3 +1,11 @@
+## [v4.1: Late fixes are better than no fixes](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-v4.1)
+Published: 2026-06-24 @ 20:39 UTC  
+* DEV/All: Reformatted `regions.json` files under "optical alignment" methodology to improve readability
+* dB1: Updated incorrect category names for `2-1: Uptown` and `3-1: Downtown`
+* dB1: Added `0` prefix to level categories so level 10 doesn't appear between levels 1 and 2
+* dB1: Renamed "Power-Up: Paint Tanker" to just "Paint Tanker"
+* dB1: Guarantee starting with 1 "main" level `X-1` and 2 "bonus" levels `X-2/X-3`
+
 ## [v4.0: Check Butter - Spread it evenly!](https://github.com/Iristallite/deBlob_manual_apworlds/releases/tag/release-v4.0)
 Published: 2026-03-29 @ 23:10 UTC  
 An issue I've felt these manuals have is that most checks get sent near the end of the levels.  
